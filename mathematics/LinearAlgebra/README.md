@@ -71,3 +71,11 @@
 <a>
   <img src="https://github.com/stan-alam/science/blob/develop/mathematics/LinearAlgebra/No_bs/01/Notebook-35.svg" width="100%" height="100%">
 </a>
+
+<a>
+  <img src="https://github.com/stan-alam/science/blob/develop/mathematics/LinearAlgebra/No_bs/01/Notebook-6.svg" width="100%" height="100%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/science/blob/develop/mathematics/LinearAlgebra/No_bs/01/Notebook-7.svg" width="100%" height="100%">
+</a>
