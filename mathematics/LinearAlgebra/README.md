@@ -79,3 +79,19 @@
 <a>
   <img src="https://github.com/stan-alam/science/blob/develop/mathematics/LinearAlgebra/No_bs/01/Notebook-7.svg" width="100%" height="100%">
 </a>
+
+<a>
+  <img src="https://github.com/stan-alam/science/blob/develop/mathematics/LinearAlgebra/No_bs/01/Notebook-13.svg" width="100%" height="100%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/science/blob/develop/mathematics/LinearAlgebra/No_bs/01/Notebook-14.svg" width="100%" height="100%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/science/blob/develop/mathematics/LinearAlgebra/No_bs/01/Notebook-15.svg" width="100%" height="100%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/science/blob/develop/mathematics/LinearAlgebra/No_bs/01/Notebook-16.svg" width="100%" height="100%">
+</a>
