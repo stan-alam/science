@@ -93,5 +93,9 @@
 </a>
 
 <a>
-  <img src="https://github.com/stan-alam/science/blob/develop/mathematics/LinearAlgebra/No_bs/01/Notebook-16.svg" width="80%" height="80%">
+  <img src="https://github.com/stan-alam/science/blob/develop/mathematics/LinearAlgebra/No_bs/01/18.01.04_1.svg" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/science/blob/develop/mathematics/LinearAlgebra/No_bs/01/18.01.04_2.svg" width="80%" height="80%">
 </a>
