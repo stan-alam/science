@@ -37,3 +37,11 @@
 <a>
   <img src="https://github.com/stan-alam/science/blob/develop/CS/distilled/04/Notebook-0.svg" width="80%" height="80%">
 </a>
+
+<a>
+  <img src="https://github.com/stan-alam/science/blob/develop/CS/distilled/04/Notebook-1.svg" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/science/blob/develop/CS/distilled/04/Notebook-2.svg" width="80%" height="80%">
+</a>
