@@ -1,6 +1,6 @@
-# Computer Science Distilled 
+# Computer Science Distilled
 
-## Chapter 04 - Data Structures 
+## Chapter 04 - Data Structures
 
 <a>
   <img src="https://github.com/stan-alam/science/blob/develop/CS/distilled/04/Notebook-21.svg" width="80%" height="80%">
@@ -44,4 +44,16 @@
 
 <a>
   <img src="https://github.com/stan-alam/science/blob/develop/CS/distilled/04/Notebook-2.svg" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/science/blob/develop/CS/distilled/04/Notebook-2.svg" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/science/blob/develop/CS/distilled/04/20.01.2018/Notebook-5.svg" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/science/blob/develop/CS/distilled/04/20.01.2018/Notebook-6.svg" width="80%" height="80%">
 </a>
