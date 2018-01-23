@@ -99,3 +99,19 @@
 <a>
   <img src="https://github.com/stan-alam/science/blob/develop/mathematics/LinearAlgebra/No_bs/01/18.01.04_2.svg" width="80%" height="80%">
 </a>
+
+<a>
+  <img src="https://github.com/stan-alam/science/blob/develop/mathematics/LinearAlgebra/No_bs/01/22.01.2018/Notebook-12.svg" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/science/blob/develop/mathematics/LinearAlgebra/No_bs/01/22.01.2018/Notebook-13.svg" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/science/blob/develop/mathematics/LinearAlgebra/No_bs/01/22.01.2018/Notebook-14.svg" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/science/blob/develop/mathematics/LinearAlgebra/No_bs/01/22.01.2018/Notebook-15.svg" width="80%" height="80%">
+</a>
