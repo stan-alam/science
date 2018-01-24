@@ -166,4 +166,8 @@
   <img src="https://github.com/stan-alam/science/blob/develop/CS/distilled/04/22.01.2018/Notebook-20.svg" width="80%" height="80%">
 </a>
 
-## 05 Algorithms 
+## 05 Algorithms
+
+<a>
+  <img src="https://github.com/stan-alam/science/blob/develop/CS/distilled/05/24.01.2018/Notebook-21.svgg" width="80%" height="80%">
+</a>
