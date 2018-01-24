@@ -157,3 +157,13 @@
 <a>
   <img src="https://github.com/stan-alam/science/blob/develop/CS/distilled/04/22.01.2018/Notebook-18.svg" width="80%" height="80%">
 </a>
+
+<a>
+  <img src="https://github.com/stan-alam/science/blob/develop/CS/distilled/04/22.01.2018/Notebook-19.svg" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/science/blob/develop/CS/distilled/04/22.01.2018/Notebook-20.svg" width="80%" height="80%">
+</a>
+
+## 05 Algorithms 
