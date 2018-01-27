@@ -199,3 +199,11 @@
 <a>
   <img src="https://github.com/stan-alam/science/blob/develop/CS/distilled/05/24.01.2018/Notebook-31.svg" width="80%" height="80%">
 </a>
+
+<a>
+  <img src="https://github.com/stan-alam/science/blob/develop/CS/distilled/05/24.01.2018/Notebook-32.svg" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/science/blob/develop/CS/distilled/05/24.01.2018/Notebook-33.svg" width="80%" height="80%">
+</a>
