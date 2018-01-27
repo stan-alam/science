@@ -179,3 +179,19 @@
 <a>
   <img src="https://github.com/stan-alam/science/blob/develop/CS/distilled/05/24.01.2018/Notebook-23.svg" width="80%" height="80%">
 </a>
+
+<a>
+  <img src="https://github.com/stan-alam/science/blob/develop/CS/distilled/05/24.01.2018/Notebook-27.svg" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/science/blob/develop/CS/distilled/05/24.01.2018/Notebook-28.svg" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/science/blob/develop/CS/distilled/05/24.01.2018/Notebook-29.svg" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/science/blob/develop/CS/distilled/05/24.01.2018/Notebook-30.svg" width="80%" height="80%">
+</a>
