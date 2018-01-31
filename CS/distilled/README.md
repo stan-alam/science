@@ -14,7 +14,6 @@
   <img src="https://github.com/stan-alam/science/blob/develop/CS/distilled/03/31.01.2018/Notebook-34.svg" width="80%" height="80%">
 </a
 
-
 ## Chapter 04 - Data Structures
 
 <a>
