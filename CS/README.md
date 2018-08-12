@@ -14,17 +14,33 @@ Managing for Happiness
 
 Commitment
 
-Toolbox for the Agile Coach
+**Toolbox for the Agile Coach**
 
-The Software Craftsman
+**The Software Craftsman**
 
-More Agile Testing
+**More Agile Testing**
 
-Fifty Quick Ideas to Improve Your Stories
+**Fifty Quick Ideas to Improve Your Stories**
 
-Scrum: The Art of Doing Twice the Work in Half the Time
+**Scrum: The Art of Doing Twice the Work in Half the Time**
 
-Getting Value out of Agile Retrospectives
+### Getting Value out of Agile Retrospectives
+
+Reinventing Organizations
+
+Turn the Ship Around!
+
+The Lean Startup
+
+Reality Charting
+
+**The Economics of Software Quality**
+
+The Clean Coder
+
+Management 3.0
+
+**Continues Delivery**
 
 _________________
 
