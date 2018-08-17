@@ -1,9 +1,10 @@
 ## Time
 
-Notes on nature of Time, **Carlo Rovelli**
+Notes on The Order of
+Time, **Carlo Rovelli**
 
 ```text
-Why do we remember the past and not the future? What does it mean for time to
+Why do we remember the past and not the future? What does it mean for time to 
 “flow”? Do we exist in time or does time exist in us? In lyric, accessible
 prose, Carlo Rovelli invites us to consider questions about the nature of
 time that continue to puzzle physicists and philosophers alike.
