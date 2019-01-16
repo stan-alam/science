@@ -40,7 +40,7 @@ The Clean Coder
 
 Management 3.0
 
-**Continues Delivery**
+**Continuous Delivery**
 
 _________________
 
