@@ -1,4 +1,9 @@
 ## notes on 'Why We Fight'
+
+<a>
+  <img src="https://github.com/stan-alam/science/blob/develop/psychology/whyWeFight/images/IMG_0100.JPG" width="80%" height="80%">
+</a>
+
 ```text
 'Dr Mike Martin is a former British Army officer trained to fluency in Pushtu who pioneered,
 designed and implemented the British Military’s Cultural Advisor-program. This program took
