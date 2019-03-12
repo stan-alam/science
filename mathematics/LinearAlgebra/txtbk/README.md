@@ -26,24 +26,24 @@
 
 <a>
   <img src="https://github.com/stan-alam/science/blob/develop/mathematics/LinearAlgebra/txtbk/svg_files/01/linAtxt-6.svg" width="80%" height="80%">
-</a
+</a>
 
 <a>
   <img src="https://github.com/stan-alam/science/blob/develop/mathematics/LinearAlgebra/txtbk/svg_files/01/linAtxt-7.svg" width="80%" height="80%">
-</a
+</a>
 
 <a>
   <img src="https://github.com/stan-alam/science/blob/develop/mathematics/LinearAlgebra/txtbk/svg_files/01/linAtxt-8.svg" width="80%" height="80%">
-</a
+</a>
 
 <a>
   <img src="https://github.com/stan-alam/science/blob/develop/mathematics/LinearAlgebra/txtbk/svg_files/01/linAtxt-9.svg" width="80%" height="80%">
-</a
+</a>
 
 <a>
-  <img src="https://github.com/stan-alam/science/blob/develop/mathematics/LinearAlgebra/txtbk/svg_files/01/linAtxt-10.svg" width="80%" height="80%">
-</a
+  <img src="https://github.com/stan-alam/science/blob/develop/mathematics/LinearAlgebra/txtbk/svg_files/01/linAtxt-10.svg" width="65%" height="65%">
+</a>
 
 <a>
-  <img src="https://github.com/stan-alam/science/blob/develop/mathematics/LinearAlgebra/txtbk/svg_files/01/images/graph01.png" width="80%" height="80%">
-</a
+  <img src="https://github.com/stan-alam/science/blob/develop/mathematics/LinearAlgebra/txtbk/svg_files/01/images/graph01.png" width="60%" height="60%">
+</a>
