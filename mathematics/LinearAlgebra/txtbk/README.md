@@ -44,6 +44,6 @@
   <img src="https://github.com/stan-alam/science/blob/develop/mathematics/LinearAlgebra/txtbk/svg_files/01/linAtxt-10.svg" width="65%" height="65%">
 </a>
 
-<a>
+<p align="center">
   <img src="https://github.com/stan-alam/science/blob/develop/mathematics/LinearAlgebra/txtbk/svg_files/01/images/graph01.png" width="60%" height="60%">
-</a>
+</p>
