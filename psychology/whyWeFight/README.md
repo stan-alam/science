@@ -33,11 +33,28 @@ and speaks on conflict, and comments in the international media, mostly about th
 
 ```
 
-# notes were taken using Scanmaker air  
+# notes were taken using Scanmarker air  
 
 ## Chapter one  
 ```text
-Thus, when it comes to war, humans are driven to fight co belong. And the large groups that we have built using conscious frameworks endow the evolutionary prizes of status and belonging with even greater significance. When we we consciously interpret this, and justify it, as lighting for  because we are fighting for our own group, and our position within it, we also interpret the causes of conflict as being the within it, "because we are fighting for our own group, and our position because we are fighting for our own group, and our position
+Thus, when it comes to war, humans are driven to fight co belong. And the large
+groups that we have built using conscious frameworks endow the evolutionary prizes
+of status and belonging with even greater significance. When we we consciously
+interpret this, and justify it, as lighting for  because we are fighting for our
+own group, and our position within it, we also interpret the causes of conflict
+as being the within it, "because we are fighting for our own group, and our
+position because we are fighting for our own group, and our position
 
-counter-terrorism—currently a suoject 01 mucA aeoate in European societies. Ideology, no matter how 'twisted' differences do not cause wars. These are merely the conscious frameworks that we use to justify our intuitive desires for status and belonging, to others and to ourselves. other words, the chaos wrought bv destruction and inequality within, rather than between, groups may actually be what leads to war. I Conflict has been studied for a long time. Thucydides, who ICE, wrote that war was caused by the three motives of 'fear' (of others), 'honour' (pride in your group) and  interest' (possible resource gain).' Yet, in the twentieth century, conflict as i phenomenon which tends to focus on non-state societies, and internal conflict studies), which examines war between nation states. conflicts, rather than analysing the broader phenomenon. Historians also study war, but tend to focus on particular  conflicts, rather than analysing the broader phenomenon.
+counter-terrorism—currently a suoject 01 mucA aeoate in European societies. Ideology,
+no matter how 'twisted' differences do not cause wars. These are merely the conscious
+frameworks that we use to justify our intuitive desires for status and belonging, to
+others and to ourselves. other words, the chaos wrought bv destruction and inequality
+within, rather than between, groups may actually be what leads to war. I Conflict
+has been studied for a long time. Thucydides, who ICE, wrote that war was caused
+by the three motives of 'fear' (of others), 'honour' (pride in your group) and  
+interest' (possible resource gain).' Yet, in the twentieth century, conflict as
+i phenomenon which tends to focus on non-state societies, and internal conflict studies),
+which examines war between nation states. conflicts, rather than
+analysing the broader phenomenon. Historians also study war, but tend to
+focus on particular  conflicts, rather than analysing the broader phenomenon.
 ````
