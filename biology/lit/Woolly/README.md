@@ -1,6 +1,38 @@
 ## notes on Woolly: The True Story of the Quest to Revive One of History’s
 ## Most Iconic Extinct Creatures
 
+03.18.2019
+
+Abstract
+
+The 28,000-year-old remains of a woolly mammoth, named ‘Yuka’, were found in Siberian permafrost.
+Here we recovered the less-damaged nucleus-like structures from the remains and visualised
+their dynamics in living mouse oocytes after nuclear transfer. Proteomic analyses demonstrated
+the presence of nuclear components in the remains. Nucleus-like structures found in the tissue homogenate were
+histone- and lamin-positive by immunostaining. In the reconstructed oocytes, the mammoth nuclei showed the
+spindle assembly, histone incorporation and partial nuclear formation; however, the full activation of nuclei for
+cleavage was not confirmed. DNA damage levels, which varied among the nuclei, were comparable to those of
+frozen-thawed mouse sperm and were reduced in some reconstructed oocytes. Our work provides a platform to evaluate
+the biological activities of nuclei in extinct animal species.
+
+
+https://rdcu.be/brH8r
+
+Publication history
+Received
+
+12 October 2018
+Accepted
+
+19 February 2019
+Published
+
+11 March 2019
+DOI
+
+https://doi.org/10.1038/s41598-019-40546-1
+
+
 ```text
 With his knack for turning narrative nonfiction into stories worthy of the best
 thriller fiction” (Omnivoracious), Ben Mezrich takes us on an exhilarating true
