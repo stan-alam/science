@@ -1,5 +1,10 @@
 ## Thinking Mathematically
 
+<p align="center">
+  <img src="https://github.com/stan-alam/science/blob/master/mathematics/lit/thinkMath/images/IMG_0105.JPG" width="70%" height="70%">
+</p>
+
+
 ```text
 Thinking Mathematically is perfect for anyone who wants to develop their powers
 to think mathematically, whether at school, at university or just out of interest.
