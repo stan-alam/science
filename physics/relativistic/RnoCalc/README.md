@@ -1,0 +1,3 @@
+## notes on 'Relativity without Calculus'
+
+"General Relativity Without Calculus" offers a compact but mathematically correct introduction to the general theory of relativity, assuming only a basic knowledge of high school mathematics and physics. Targeted at first year undergraduates (and advanced high school students) who wish to learn Einstein's theory beyond popular science accounts, it covers the basics of special relativity, Minkowski space-time, non-Euclidean geometry, Newtonian gravity, the Schwarzschild solution, black holes and cosmology. The quick-paced style is balanced by over 75 exercises (including full solutions), allowing readers to test and consolidate their understanding.
