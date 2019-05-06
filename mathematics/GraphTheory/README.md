@@ -23,3 +23,7 @@
 <a>
   <img src="https://github.com/stan-alam/science/blob/develop/mathematics/GraphTheory/images/01/graphthry%20-%205.png" width="80%" height="80%">
 </a>
+
+<a>
+  <img src="https://github.com/stan-alam/science/blob/develop/mathematics/GraphTheory/images/01/graphthry%20-%206.png" width="80%" height="80%">
+</a>
