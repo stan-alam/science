@@ -1,7 +1,7 @@
 ## Byrne's Euclid
 
 <p align="center">
-  <img src="https://github.com/stan-alam/science/blob/develop/mathematics/Byrne_Euclid/images/00.png" width="50%" height="50%">
+  <img src="https://github.com/stan-alam/science/blob/develop/mathematics/Byrne_Euclid/images/00.png" width="60%" height="60%">
 </p>
 
 <a>
