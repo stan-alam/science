@@ -29,6 +29,18 @@
 </a>
 
 <a>
+  <img src="https://github.com/stan-alam/science/blob/develop/mathematics/GraphTheory/images/01/graphthry%20-%2015.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/science/blob/develop/mathematics/GraphTheory/images/01/graphthry%20-%2016.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/science/blob/develop/mathematics/GraphTheory/images/01/graphthry%20-%2017.png" width="80%" height="80%">
+</a>
+
+<a>
   <img src="https://github.com/stan-alam/science/blob/develop/mathematics/GraphTheory/images/01/graphthry%20-%206.png" width="80%" height="80%">
 </a>
 
