@@ -41,15 +41,15 @@
 </a>
 
 <a>
-  <img src="https://github.com/stan-alam/science/blob/develop/mathematics/GraphTheory/images/01/graphthry%20-%2018.png" width="80%" height="80%">
+  <img src="https://github.com/stan-alam/science/blob/develop/mathematics/GraphTheory/images/01/graphthry%20-%2018edited.png" width="80%" height="80%">
 </a>
 
 <a>
-  <img src="https://github.com/stan-alam/science/blob/develop/mathematics/GraphTheory/images/01/graphthry%20-%2019.png" width="80%" height="80%">
+  <img src="https://github.com/stan-alam/science/blob/develop/mathematics/GraphTheory/images/01/graphthry%20-%2019edited.png" width="80%" height="80%">
 </a>
 
 <a>
-  <img src="https://github.com/stan-alam/science/blob/develop/mathematics/GraphTheory/images/01/graphthry%20-%2020.png" width="80%" height="80%">
+  <img src="https://github.com/stan-alam/science/blob/develop/mathematics/GraphTheory/images/01/graphthry%20-%2020edited.png" width="80%" height="80%">
 </a>
 
 <a>
