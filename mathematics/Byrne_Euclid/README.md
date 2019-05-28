@@ -28,6 +28,10 @@ ToDo :
   <img src="https://github.com/stan-alam/science/blob/develop/mathematics/Byrne_Euclid/images/04.png" width="100%" height="100%">
 </a>
 
+<a>
+  <img src="https://github.com/stan-alam/science/blob/develop/mathematics/Byrne_Euclid/images/05.png" width="100%" height="100%">
+</a>
+
 ```text
 edited from Byrne's Euclid, not complete
 ```
