@@ -10,6 +10,16 @@ Features:
     Class-tested over many years
     To be accompanied by a partner volume on ‘Advanced Topics’ for students to further extend their learning
 
+
+
+<a>
+  <img src="https://github.com/stan-alam/science/blob/develop/physics/relativistic/CoreRelativity/images/01/CoreRelativity%20-%2000A.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/science/blob/develop/physics/relativistic/CoreRelativity/images/01/CoreRelativity%20-%2000B.png" width="80%" height="80%">
+</a>
+
 <a>
   <img src="https://github.com/stan-alam/science/blob/develop/physics/relativistic/CoreRelativity/images/01/CoreRelativity%20-%200.png" width="80%" height="80%">
 </a>
