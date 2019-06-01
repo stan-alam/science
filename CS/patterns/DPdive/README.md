@@ -9,7 +9,7 @@
 </a>
 
 <a>
-  <img src="https://github.com/stan-alam/science/blob/develop/CS/patterns/DPdive/images/01/patterndd%20-%2002A.png"" width="80%" height="80%">
+  <img src="https://github.com/stan-alam/science/blob/develop/CS/patterns/DPdive/images/01/patterndd%20-%2002A.png" width="80%" height="80%">
 </a>
 
 <a>
