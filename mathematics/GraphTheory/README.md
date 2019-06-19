@@ -145,6 +145,19 @@
 </a>
 
 <a>
+  <img src="https://github.com/stan-alam/science/blob/develop/mathematics/GraphTheory/images/01/graphthry%20-%2044.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/science/blob/develop/mathematics/GraphTheory/images/01/graphthry%20-%2045.png" width="80%" height="80%">
+</a>
+
+```python
+
+# Insert Turtle Graphic here, for K = 16, i.e. 16 edges
+
+```
+<a>
   <img src="https://github.com/stan-alam/science/blob/develop/mathematics/GraphTheory/images/01/graphthry%20-%200.png" width="80%" height="80%">
 </a>
 
