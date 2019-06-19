@@ -158,6 +158,16 @@ graph = { "a" : ["c"],
           "f" : []
           }
 # letters as nodes
+def generate_edges(graph):
+    edges = []
+    for node in graph:
+        for neighbour in graph[node]:
+            edges.append((node, neighbour))
+
+    return edges
+
+print(generate_edges(graph))
+
 ```
 <a>
   <img src="https://github.com/stan-alam/science/blob/develop/mathematics/GraphTheory/images/01/graphthry%20-%201.png" width="80%" height="80%">
