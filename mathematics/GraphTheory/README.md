@@ -161,8 +161,8 @@ graph = { "a" : ["c"],
 def generate_edges(graph):
     edges = []
     for node in graph:
-        for neighbour in graph[node]:
-            edges.append((node, neighbour))
+        for neighbor in graph[node]:
+            edges.append((node, neighbor))
 
     return edges
 
