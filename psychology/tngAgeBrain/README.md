@@ -47,3 +47,24 @@ Stanislaw:
 Stanislaw:
 
 06
+
+
+"Children’s brains continue to be molded by their environment, physiologically, well past their midtwenties."
+
+Stanislaw:
+
+07
+
+
+"And the way that the adolescent brain responds to the world has a lot to do with the impulsive, irrational, and wrongheaded decisions teens seem to make so frequently."
+
+Stanislaw:
+
+08
+
+
+"This book was prompted by the tremendous, even overwhelming, number of responses I have received from parents and educators (and sometimes even teens) who heard me speak."
+
+Stanislaw:
+
+08
