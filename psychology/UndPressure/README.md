@@ -87,3 +87,59 @@ worse—for our girls. When it comes to understanding the interior world of our 
 is the girl guru.”—Elizabeth English, Head of School, The Archer School for Girls
 
 ```
+**06.23.2019**
+
+"Alarmingly, what we are observing on an intimate daily scale is confirmed by sweeping surveys. A recent report from the American Psychological Association found that adolescence can no longer be characterized as an exuberant time of life, full of carefree experimentation. Except for during the summer months, today’s teens now, for the first time, feel more stressed than their parents do. They also experience the emotional and physical symptoms of chronic tension, such as edginess and fatigue, at levels that we used to see only in adults"
+
+Stanislaw:
+
+01
+
+
+"Studies also tell us that the number of adolescents reporting that they are experiencing emotional problems and are highly anxious"
+
+Stanislaw:
+
+02
+
+"But these trends do not affect our sons and daughters equally. It’s the girls who suffer more. As confirmed by report after report, girls are more likely than boys to labor under feelings of psychological stress and tension. A recent study found that a staggering 31 percent of girls and young women experience symptoms of anxiety, compared to 13 percent of boys and young men. Studies tell us that, compared to boys, girls feel more pressure, and that they endure more of the physical symptoms of psychological strain, such as fatigue and changes in appetite. Young women are also more likely to experience the emotions often associated with anxiety. One study found that the number of teenage girls who said they often felt nervous, worried, or fearful jumped by 55 percent from 2009 to 2014 while remaining unchanged for adolescent boys over the same time period. A different study found that anxious feelings are becoming more prevalent among all young people but are growing at a faster pace in girls"
+
+Stanislaw:
+
+03
+
+"probably be paying attention to the fact that girls between the ages of twelve and seventeen are now nearly three times more likely than boys to become depressed"
+
+Stanislaw:
+
+04
+
+"Compared to male undergrads, college women also felt more exhausted and overwhelmed, and they experienced higher levels of overall stress"
+
+Stanislaw:
+
+05
+
+"adults, I now hear regularly about girls who are so fearful of disappointing their teachers that they skip sleep to do extracredit work for points they don’t need. Research also tells us that our daughters, more than our sons, worry about how they look"
+
+Stanislaw:
+
+06
+
+"Though teens have always experienced moments of high anxiety about their physical appearance, we are raising the first generation that can, and often does, devote hours at a time to fretfully curating and posting selfies in the hopes that they will receive an avalanche of likes. Studies also suggest that girls are more likely than boys not only to be cyberbullied but also to dwell on the emotional injuries caused by their"
+
+Stanislaw:
+
+07
+
+"This book examines the forces that fray girls’ nerves and suggests how we can help our daughters feel more at ease. I’ll describe what I’ve learned from the growing research, my psychotherapy clients, my colleagues, girls at schools, and my own daughters about the steps we can take to shield young women from toxic stress and anxiety"
+
+Stanislaw:
+
+08
+
+"Reacting with alarm to normal difficulties can make them worse and even contribute to a girl’s unhealthy levels of stress and anxiety. With this in mind, Under Pressure won’t simply itemize the concerns that arise for girls and young women, it will also offer strategies to help you reassure your daughter on the days that she feels she is falling apart and to help her manage on her own when she is ready"
+
+Stanislaw:
+
+09
