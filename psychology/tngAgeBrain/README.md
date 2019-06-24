@@ -10,6 +10,59 @@ Interweaving clear summary and analysis of research data with anecdotes drawn fr
 
 Rigorous yet accessible, warm yet direct, The Teenage Brain sheds new light on the brains�and behaviors�of adolescents and young adults, and analyzes this knowledge to share specific ways in which parents, educators, and even the legal system can help them navigate their way more smoothly into adulthood.
 
+**06.23.2019**
+
+"years are a great time to test where a kid’s strengths are, and to even out weaknesses that need attention. What you don’t want to do is ridicule, or be judgmental or disapproving or dismissive."
+
+Stanislaw:
+
+16
+
+
+"Let them experiment with these more harmless things rather than have them rebel and get into much more serious trouble. Try not to focus on winning the battles when you should be winning the war—the endgame is to help get them through the necessary experimentation that they instinctively need without any long-term adverse effects. The teen"
+
+Stanislaw:
+
+15
+
+"learned it. For Andrew, that was his desk in his bedroom. As I will explain later, teenagers are “jacked up” on learning—their brains are primed for knowledge—so where and how they learn is important, and setting up a place where homework is done is something any parent can help teens"
+
+Stanislaw:
+
+14
+
+"Scientists have shown that the best way to remember what you’ve learned is to return to the place where you"
+
+Stanislaw:
+
+13
+
+"learning is cumulative—everything new is based on something you just learned, so you have to hang in there, you have to stay on top of it. So I got a pad of paper and I went through each chapter of Andrew’s textbooks, and on one side of the paper I picked out a problem for him to solve and on the other side, folded, was the answer. All he needed was a model, a template, a structure. It was a turning point for him and me. He realized he actually had to do the work—sit down and do it—in order to learn. He also realized working on his bed, with everything spread out around him, wasn’t helping. He needed more structure, so he sat himself at his desk, with a pencil sharpener and a piece of paper in front of him, and he learned how to impose order on himself. He needed the external cues."
+
+Stanislaw:
+
+12
+
+"use this as a handbook, a kind of user’s manual or survival guide to the care and feeding of the teenage brain. Ultimately, I want to do more than help adults better understand their teenagers. I want to offer practical advice so that parents can help their teenagers, too."
+
+Stanislaw:
+
+11
+
+
+
+"In this book I will explain how the teen brain offers major advantages on the one hand but unperceived and often unacknowledged vulnerabilities on the other. I am hoping you will"
+
+Stanislaw:
+
+10
+
+"This book was prompted by the tremendous, even overwhelming, number of responses I have received from parents and educators (and sometimes even teens) who heard me speak."
+
+Stanislaw:
+
+09
+
 **06.20.2019**
 
 "But my sweet-natured firstborn son had suddenly become unfamiliar, unpredictable, and bent on being different. He had just     transferred from a very conventional middle school that went through ninth grade, where jackets and ties were the norm, to a very progressive high school. Upon arriving, he took full advantage of the new environment, and part of that was to dress in what you might describe as an “alternative” style. Let’s face it, his best friend had spiky blue hair."
