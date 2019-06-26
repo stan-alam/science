@@ -6,3 +6,12 @@ graph = { "a" : ["c"],
           "e" : ["c", "b"],
           "f" : []
           }
+def generate_edges(graph):
+    edges = []
+    for node in graph:
+        for neighbor in graph[node]:
+            edges.append((node, neighbor))
+
+    return edges
+
+print(generate_edges(graph))
