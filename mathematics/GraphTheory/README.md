@@ -170,6 +170,22 @@
 </a>
 
 <a>
+  <img src="https://github.com/stan-alam/science/blob/develop/mathematics/GraphTheory/images/01/graphthry%20-%2049.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/science/blob/develop/mathematics/GraphTheory/images/01/graphthry%20-%2050.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/science/blob/develop/mathematics/GraphTheory/images/01/graphthry%20-%2051.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/science/blob/develop/mathematics/GraphTheory/images/01/graphthry%20-%2052.png" width="80%" height="80%">
+</a>
+
+<a>
   <img src="https://github.com/stan-alam/science/blob/develop/mathematics/GraphTheory/images/01/graphthry%20-%200.png" width="80%" height="80%">
 </a>
 
