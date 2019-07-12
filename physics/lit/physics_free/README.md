@@ -1,4 +1,4 @@
-## notes on 'How Physics Makes you Free'
+## notes on 'How Physics Makes Us Free'
 
 In 1687 Isaac Newton ushered in a new scientific era in which laws of nature could be used to predict the movements of matter with almost perfect precision. Newton's physics also posed a profound challenge to our self-understanding, however, for the very same laws that keep airplanes in the air and rivers flowing downhill tell us that it is in principle possible to predict what each of us will do every second of our entire lives, given the early conditions of the universe.
 
