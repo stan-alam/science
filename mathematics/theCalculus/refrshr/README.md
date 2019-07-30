@@ -91,3 +91,15 @@
 <a>
   <img src="https://github.com/stan-alam/science/blob/develop/mathematics/theCalculus/refrshr/images/01/calcrfresh%20-%2023.png" width="80%" height="80%">
 </a>
+
+<a>
+  <img src="https://github.com/stan-alam/science/blob/develop/mathematics/theCalculus/refrshr/images/01/calcrfresh%20-%2024.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/science/blob/develop/mathematics/theCalculus/refrshr/images/01/calcrfresh%20-%2025.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/science/blob/develop/mathematics/theCalculus/refrshr/images/01/calcrfresh%20-%2026.png" width="80%" height="80%">
+</a>
