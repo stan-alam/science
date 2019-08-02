@@ -1,4 +1,6 @@
-## Notes on 'Emperor of all Maladies'
+﻿## Notes on 'Emperor of all Maladies'
+
+https://www.wired.com/story/how-a-6000-year-old-dog-cancer-spread-around-the-world
 
 ```text
 Winner of the Pulitzer Prize, and now a documentary from Ken Burns on PBS, The Emperor of All Maladies is a magnificent, profoundly humane “biography” of cancer—from its first documented appearances thousands of years ago through the epic battles in the twentieth century to cure, control, and conquer it to a radical new understanding of its essence.
