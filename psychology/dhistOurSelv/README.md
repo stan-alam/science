@@ -1,0 +1,5 @@
+## notes on 'Deep History of Ourselves'
+
+Renowned neuroscientist Joseph LeDoux digs into the natural history of life on earth to provide a new perspective on the similarities between us and our ancestors in deep time. This page-turning survey of the whole of terrestrial evolution sheds new light on how nervous systems evolved in animals, how the brain developed, and what it means to be human.
+
+In The Deep History of Ourselves, LeDoux argues that the key to understanding human behavior lies in viewing evolution through the prism of the first living organisms. By tracking the chain of the evolutionary timeline he shows how even the earliest single-cell organisms had to solve the same problems we and our cells have to solve each day. Along the way, LeDoux explores our place in nature, how the evolution of nervous systems enhanced the ability of organisms to survive and thrive, and how the emergence of what we humans understand as consciousness made our greatest and most horrendous achievements as a species possible.
