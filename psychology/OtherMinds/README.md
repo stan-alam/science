@@ -1,4 +1,7 @@
-## Notes on 'Other Minds'
+﻿## Notes on 'Other Minds'
+
+**09.24.2019**
+https://lithub.com/the-octopus-an-alien-among-us/
 
 ```text
 Although mammals and birds are widely regarded as the smartest creatures on
