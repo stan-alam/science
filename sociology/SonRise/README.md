@@ -1,0 +1,5 @@
+## notes on 'The Son Also Rises'
+
+How much of our fate is tied to the status of our parents and grandparents? How much does it influence our children? More than we wish to believe. While it has been argued that rigid class structures have eroded in favor of greater social equality, The Son Also Rises proves that movement on the social ladder has changed little over eight centuries. Using a novel technique―tracking family names over generations to measure social mobility across countries and periods―renowned economic historian Gregory Clark reveals that mobility rates are lower than conventionally estimated, do not vary across societies, and are resistant to social policies.
+
+Clark examines and compares surnames in such diverse cases as modern Sweden and Qing Dynasty China. He demonstrates how fate is determined by ancestry and that almost all societies have similarly low social mobility rates. Challenging popular assumptions about mobility and revealing the deeply entrenched force of inherited advantage, The Son Also Rises is sure to prompt intense debate for years to come.
