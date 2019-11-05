@@ -4,6 +4,25 @@
 
 This is an English translation of a classical Russian grade school-level text in plane Euclidean geometry. (The solid geometry part is published as Kiselev's Geometry / Book II. Stereometry ISBN 0977985210.) The book dominated in Russian math education for several decades, was reprinted in dozens of millions of copies, influenced geometry education in Eastern Europe and China, and is still active as a textbook for 7-9 grades. The book is adapted to the modern US curricula by a professor of mathematics from UC Berkeley.
 
+<a>
+  <img src="https://github.com/stan-alam/science/blob/develop/mathematics/Planimetry/images/01/planimetry01%20-%201.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/science/blob/develop/mathematics/Planimetry/images/01/planimetry01%20-%202.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/science/blob/develop/mathematics/Planimetry/images/01/planimetry01%20-%203.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/science/blob/develop/mathematics/Planimetry/images/01/planimetry01%20-%204.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/science/blob/develop/mathematics/Planimetry/images/01/planimetry01%20-%205.png" width="80%" height="80%">
+</a>
 
 **Review**
 
