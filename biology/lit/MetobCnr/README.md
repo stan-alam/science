@@ -25,3 +25,9 @@ Cancer as a Metabolic Disease is essential reading for all cancer researchers an
 About the Author
 
 THOMAS N. SEYFRIED, PhD, has taught and conducted research in the fields of neurogenetics, neurochemistry, and cancer for more than twenty-five years at Yale University and Boston College. He has published more than 150 scientific articles and book chapters and is on the editorial boards of Nutrition & Metabolism, Journal of Lipid Research, Neurochemical Research, and ASN Neuro.
+------------------------
+"While I do not know Dr. Seyfried personally, I am very impressed with the excellent job he has done in highlighting abnormal energy metabolism as the central issue of the cancer problem."
+
+A Kindle User:
+
+cm01
