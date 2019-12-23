@@ -5,7 +5,21 @@ It’s a seemingly undeniable truth that aging is inevitable. But what if everyt
 In this groundbreaking book, Dr. David Sinclair, leading world authority on genetics and longevity, reveals a bold new theory for why we age. As he writes: “Aging is a disease, and that disease is treatable.”
 
 This eye-opening and provocative work takes us to the frontlines of research that is pushing the boundaries on our perceived scientific limitations, revealing incredible breakthroughs—many from Dr. David Sinclair’s own lab at Harvard—that demonstrate how we can slow down, or even reverse, aging. The key is activating newly discovered vitality genes, the descendants of an ancient genetic survival circuit that is both the cause of aging and the key to reversing it. Recent experiments in genetic reprogramming suggest that in the near future we may not just be able to feel younger, but actually become younger.
-------------------
+
+## 01
+
+"When the latest dry period ends and the lakes refill, M. superstes wakes up. Now it can reproduce. Again and again it does so. Multiplying. Moving into new biomes. Evolving. Creating generations upon generations of new descendants. They are our Adam and Eve. Like Adam and Eve, we don’t know if M. superstes ever existed. But my research over the past twenty-five years suggests that every living thing we see around us today is a product of this great survivor, or at least a primitive organism very much like it. The fossil record in our genes goes a long way to proving that every living thing that shares this planet with us still carries this ancient genetic survival circuit, in more or less the same basic form."
+
+A Kindle User:
+
+20
+
+
+"This makes sense, because while DNA is broken, sex and reproduction are the last things an organism should be doing. In future multicellular organisms, for instance, cells that fail to pause while fixing a DNA break will almost certainly lose genetic material. This is because DNA is pulled apart prior to cell division from only one attachment site on the DNA, dragging the rest of the DNA with it. If DNA is broken, part of a chromosome will be lost or duplicated. The cells will likely die or multiply uncontrollably into a tumor."
+
+A Kindle User:
+
+19
 
 **important
 "the horizontal transfer of genes from one species to another—will create organisms with bilateral symmetry, stereoscopic vision, and even consciousness. By comparison, this early evolutionary step looks, at first, to be rather simple. It is a circuit. A gene circuit. The circuit begins with gene A, a caretaker that stops cells from reproducing when times are tough. This is key, because on early planet Earth, most times are tough. The circuit also has a gene B, which encodes for a “silencing” protein. This silencing protein shuts gene A off when times are good, so the cell can make copies of itself when, and only when, it and its offspring will likely survive."
