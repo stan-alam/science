@@ -7,6 +7,40 @@ In this groundbreaking book, Dr. David Sinclair, leading world authority on gene
 This eye-opening and provocative work takes us to the frontlines of research that is pushing the boundaries on our perceived scientific limitations, revealing incredible breakthroughs—many from Dr. David Sinclair’s own lab at Harvard—that demonstrate how we can slow down, or even reverse, aging. The key is activating newly discovered vitality genes, the descendants of an ancient genetic survival circuit that is both the cause of aging and the key to reversing it. Recent experiments in genetic reprogramming suggest that in the near future we may not just be able to feel younger, but actually become younger.
 ------------------
 
+**important
+"the horizontal transfer of genes from one species to another—will create organisms with bilateral symmetry, stereoscopic vision, and even consciousness. By comparison, this early evolutionary step looks, at first, to be rather simple. It is a circuit. A gene circuit. The circuit begins with gene A, a caretaker that stops cells from reproducing when times are tough. This is key, because on early planet Earth, most times are tough. The circuit also has a gene B, which encodes for a “silencing” protein. This silencing protein shuts gene A off when times are good, so the cell can make copies of itself when, and only when, it and its offspring will likely survive."
+
+A Kindle User:
+
+18**
+
+"Within this dying mass of cells, each scrapping for and scraping by on the merest minimums of nutrients and moisture, each one doing whatever it can to answer the primal call to reproduce, there is a unique species. Let’s call it Magna superstes. That’s Latin for “great survivor.” It does not look very different from the other organisms of the day, but M. superstes has a distinct advantage: it has evolved a genetic survival mechanism."
+
+A Kindle User:
+
+16
+
+
+"But that is about to change. Water is pooling next to warm thermal vents that litter one of the larger islands. Organic molecules cover all surfaces, having ridden in on the backs of meteorites and comets. Sitting on dry, volcanic rock, these molecules will remain just molecules, but when dissolved in pools of warm water, through cycles of wetting and drying at the pools’ edges, a special chemistry takes place."
+
+A Kindle User:
+
+15
+
+
+"And just as was the case in the days leading up to December 17, 1903, the majority of humanity is oblivious. There was simply no context with which to construct the idea of controlled, powered flight back then, so the idea was fanciful, magical, the stuff of speculative fiction.16"
+
+A Kindle User:
+
+18
+
+"Prolonged vitality—meaning not just more years of life but more active, healthy, and happy ones—is coming. It is coming sooner than most people expect. By the time the children who are born today have reached middle age, Jeanne Calment may not even be on the list of the top 100 oldest people of all time. And by the turn of the next century, a person who is 122 on the day of his or her death may be said to have lived a full, though not particularly long, life. One hundred and twenty years might be not an outlier but an expectation, so much so that we won’t even call it longevity; we will simply call it “life,” and we will look back with sadness on the time in our history in which it was not so. What’s the upward limit? I don’t think there is one. Many of my colleagues agree.14 There is no biological law that says we must age.15 Those"
+
+A Kindle User:
+
+15
+
+
 **"95 percent to be precise, are dead before 100."
 
 A Kindle User:
