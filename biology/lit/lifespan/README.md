@@ -5,3 +5,95 @@ It’s a seemingly undeniable truth that aging is inevitable. But what if everyt
 In this groundbreaking book, Dr. David Sinclair, leading world authority on genetics and longevity, reveals a bold new theory for why we age. As he writes: “Aging is a disease, and that disease is treatable.”
 
 This eye-opening and provocative work takes us to the frontlines of research that is pushing the boundaries on our perceived scientific limitations, revealing incredible breakthroughs—many from Dr. David Sinclair’s own lab at Harvard—that demonstrate how we can slow down, or even reverse, aging. The key is activating newly discovered vitality genes, the descendants of an ancient genetic survival circuit that is both the cause of aging and the key to reversing it. Recent experiments in genetic reprogramming suggest that in the near future we may not just be able to feel younger, but actually become younger.
+------------------
+
+**"95 percent to be precise, are dead before 100."
+
+A Kindle User:
+
+important**
+
+"In part II, I will introduce you to the steps that can be taken right now—and new therapies in development—that may slow, stop, or reverse aging, bringing an end to aging as we know it. And yes, I fully recognize the implications of the words “bringing an end to aging as we know it,” so, in part III, I will acknowledge the many possible futures these actions could create and propose a path to a future that we can look forward to, a world in which the way we can get to an increased lifespan is through an ever-rising healthspan, the portion of our lives spent without disease or disability."
+
+A Kindle User:
+
+15
+
+"pages, I will present a new idea about why aging evolved and how it fits into what I call the Information Theory of Aging. I will also tell you why I have come to see aging as a disease—the most common disease—one that not only can but should be aggressively treated. That’s part I."
+
+A Kindle User:
+
+14
+
+
+"that means for humanity going forward.8 I’ve applied many of my scientific findings to my own life, as have many of my family members, friends, and colleagues. The results—which, it should be noted, are completely anecdotal—are encouraging. I’m now 50, and I feel like a kid. My wife and kids will tell you I act like one, too."
+
+A Kindle User:
+
+13
+
+
+"also run a sister lab at my alma mater, the University of New South Wales in Sydney. In my labs, teams of brilliant students and PhDs have both accelerated and reversed aging in model organisms and have been responsible for some of the most cited research in the field, published in some of the world’s top scientific journals. I am also a cofounder of a journal, Aging, that provides space to other scientists to publish their research on one of the most challenging and exciting questions of our time, and a cofounder of the Academy for Health and Lifespan Research, a group of the top twenty researchers in aging worldwide."
+
+A Kindle User:
+
+$12
+
+"What if we could play as children do, deeper into our lives, without worrying about moving on to the things adults have to do so soon? What if all of the things we need to compress into our teenage years didn’t need to be so compressed after all? What if we weren’t so stressed in our 20s? What if we weren’t feeling middle-aged in our 30s and 40s? What if, in our 50s, we wanted to reinvent ourselves and couldn’t think of a single reason why we shouldn’t? What if, in our 60s, we weren’t fretting about leaving a legacy but beginning one?"
+
+A Kindle User:
+
+Ego wants a legacy
+
+"Vera. Vera taught me to drive, swerving and swaying across all of the lanes, “dancing” to whatever music was on the car’s radio. She told me to enjoy my youth, to savor the feeling of being young. Adults, she said, always ruined things. Don’t grow up, she said. Never grow up."
+
+A Kindle User:
+
+9
+
+"What if we could play as children do, deeper into our lives, without worrying about moving on to the things adults have to do so soon? What if all of the things we need to compress into our teenage years didn’t need to be so compressed after all? What if we weren’t so stressed in our 20s? What if we weren’t feeling middle-aged in our 30s and 40s? What if, in our 50s, we wanted to reinvent ourselves and couldn’t think of a single reason why we shouldn’t? What if, in our 60s, we weren’t fretting about leaving a legacy but beginning one?"
+
+A Kindle User:
+
+8
+
+"Well into her 60s and 70s, she was still what we call “young at heart,” drinking wine with friends and family, eating good food, telling great stories, helping the poor, sick, and less fortunate, pretending to conduct symphonies, laughing late into the night. By just about anyone’s standard, that’s the mark of a “life well lived.” But yes, the clock was ticking. By her mid-80s, Vera was a shell of her former self, and the final decade of her life was hard to watch. She was frail and sick. She still had enough wisdom left to insist that I marry my fiancée, Sandra, but by then music gave her no joy and she hardly got out of her chair; the vibrancy that had defined her was gone."
+
+A Kindle User:
+
+7
+
+
+"Vera taught me to drive, swerving and swaying across all of the lanes, “dancing” to whatever music was on the car’s radio. She told me to enjoy my youth, to savor the feeling of being young. Adults, she said, always ruined things. Don’t grow up, she said. Never grow up."
+
+A Kindle User:
+
+6
+
+
+"my grandmother was a very secular person. Our equivalent of the Lord’s Prayer was the English author Alan Alexander Milne’s poem “Now We Are Six,” which ends: But now I am six, I’m as clever as clever. So I think I’ll be six now for ever and ever."
+
+A Kindle User:
+
+5
+
+"A decade after the war, in the early days of the Soviet occupation, the Communists began to shut down the borders. When her mother tried to cross illegally into Austria, she was caught, arrested, and sentenced to two years in jail and died shortly after."
+
+A Kindle User:
+
+3
+
+
+
+"Then we want them to go to school. Then we want them to go to work. To find a partner. To save up. To buy a house. Because, you know, the clock is ticking. My grandmother was the first person to tell me that it didn’t have to be that way. Or, I guess, she didn’t tell me so much as show me. She had grown up in Hungary, where she spent Bohemian summers swimming in the cool waters of Lake Balaton and hiking in the mountains of its northern shore at a holiday resort that catered to actors, painters, and poets."
+
+A Kindle User:
+
+02
+
+
+"Garigal"
+
+A Kindle User:
+
+01
