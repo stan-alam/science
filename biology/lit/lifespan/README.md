@@ -8,6 +8,14 @@ This eye-opening and provocative work takes us to the frontlines of research tha
 
 ## 01
 
+**important
+"The human body, though far from perfect and still evolving, carries an advanced version of the survival circuit that allows it to last for decades past the age of reproduction. While it is interesting to speculate why our long lifespans first evolved—the need for grandparents to educate the tribe is one appealing theory—given the chaos that exists at the molecular scale, it’s a wonder we survive thirty seconds, let alone make it to our reproductive years, let alone reach 80 more often than not. But we do. Marvelously we do. Miraculously we do. For we are the progeny of a very long lineage of great survivors. Ergo, we are great survivors. But there is a trade-off. For this circuit within us, the descendant of a series of mutations in our most distant ancestors, is also the reason we age. And yes, that definite singular article is correct: it is the reason."
+
+A Kindle User:
+
+important**
+
+
 "When the latest dry period ends and the lakes refill, M. superstes wakes up. Now it can reproduce. Again and again it does so. Multiplying. Moving into new biomes. Evolving. Creating generations upon generations of new descendants. They are our Adam and Eve. Like Adam and Eve, we don’t know if M. superstes ever existed. But my research over the past twenty-five years suggests that every living thing we see around us today is a product of this great survivor, or at least a primitive organism very much like it. The fossil record in our genes goes a long way to proving that every living thing that shares this planet with us still carries this ancient genetic survival circuit, in more or less the same basic form."
 
 A Kindle User:
