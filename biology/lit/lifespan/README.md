@@ -8,12 +8,50 @@ This eye-opening and provocative work takes us to the frontlines of research tha
 
 ## 01
 
-**important
+"Kirkwood’s theory is best illustrated by fictitious but potentially real-life examples."
+
+A Kindle User:
+
+26
+
+**"Known as the “Disposable Soma Hypothesis,**” it is based on the fact that there are always limited resources available to species—energy, nutrients, water. They therefore evolve to a point that lies somewhere between two very different lifestyles: breed fast and die young, or breed slowly and maintain your soma, or body. Kirkwood reasoned that organisms can’t breed fast and maintain a robust, healthy body—there simply isn’t enough energy to do both. Stated another way, in the history of life, any line of creature with a mutation that caused it to live fast and attempt to die old soon ran out of resources and was thus deleted from the gene pool."
+
+A Kindle User:
+
+26
+
+
+"Medawar, who had a penchant for verbiage, expounded on a nuanced theory called “antagonistic pleiotropy.” Put simply, it says genes that help us reproduce when we are young don’t just become less helpful as we age, they can actually come back to bite us when we are old."
+
+A Kindle User:
+
+25
+
+
+"From the looks of it, aging is not going to be that hard to treat, far easier than curing cancer. Up until the second half of the twentieth century, it was generally accepted that organisms grow old and die “for the good of the species”—an idea that dates back to Aristotle, if not further. This idea feels quite intuitive. It is the explanation proffered by most people at parties.4 But it is dead wrong. We do not die to make way for the next generation. In the 1950s, the concept of “group selection” in evolution was going out of style, prompting three evolutionary biologists, J. B. S. Haldane, Peter B. Medawar, and George C. Williams, to propose some important ideas about why we age. When it comes to longevity, they agreed, individuals look out for themselves. Driven by their selfish genes, they press on and try to breed for as long and as fast as they can, so long as it doesn’t kill them. (In some cases, however, they press on too much, as my great-grandfather Miklós Vitéz, a Hungarian screenwriter, proved to his bride forty-five years his junior on their wedding night.)"
+
+A Kindle User:
+
+24
+
+"tumor. If it weren’t for T-cells, we’d all develop cancer in our twenties. But rogue cancer cells evolve ways to fool cancer-detecting T-cells so they can go on happily multiplying. The latest and most effective immunotherapies bind to proteins on the cancer cells’ surface. It is the equivalent of taking the invisible cloak off cancer cells so T-cells can recognize and kill them. Although fewer than 10 percent of all cancer patients currently benefit from immunotherapy, that number should increase thanks to the hundreds of trials currently in progress."
+
+A Kindle User:
+
+23
+
+"Then, in the 1970s, genes that cause cancer when mutated were discovered by the molecular biologists Peter Vogt and Peter Duesberg. These so-called oncogenes shifted the entire paradigm of cancer research. Pharmaceutical developers now had targets to go after: the tumor-inducing proteins encoded by genes, such as BRAF, HER2, and BCR-ABL. By inventing chemicals that specifically block the tumor-promoting proteins, we could finally begin to move away from using radiation and toxic chemotherapeutic agents to attack cancers at their genetic source, while leaving normal cells untouched."
+
+A Kindle User:
+
+22
+
+**important**
 "The human body, though far from perfect and still evolving, carries an advanced version of the survival circuit that allows it to last for decades past the age of reproduction. While it is interesting to speculate why our long lifespans first evolved—the need for grandparents to educate the tribe is one appealing theory—given the chaos that exists at the molecular scale, it’s a wonder we survive thirty seconds, let alone make it to our reproductive years, let alone reach 80 more often than not. But we do. Marvelously we do. Miraculously we do. For we are the progeny of a very long lineage of great survivors. Ergo, we are great survivors. But there is a trade-off. For this circuit within us, the descendant of a series of mutations in our most distant ancestors, is also the reason we age. And yes, that definite singular article is correct: it is the reason."
 
 A Kindle User:
 
-important**
+important
 
 
 "When the latest dry period ends and the lakes refill, M. superstes wakes up. Now it can reproduce. Again and again it does so. Multiplying. Moving into new biomes. Evolving. Creating generations upon generations of new descendants. They are our Adam and Eve. Like Adam and Eve, we don’t know if M. superstes ever existed. But my research over the past twenty-five years suggests that every living thing we see around us today is a product of this great survivor, or at least a primitive organism very much like it. The fossil record in our genes goes a long way to proving that every living thing that shares this planet with us still carries this ancient genetic survival circuit, in more or less the same basic form."
@@ -29,12 +67,12 @@ A Kindle User:
 
 19
 
-**important
+**important**
 "the horizontal transfer of genes from one species to another—will create organisms with bilateral symmetry, stereoscopic vision, and even consciousness. By comparison, this early evolutionary step looks, at first, to be rather simple. It is a circuit. A gene circuit. The circuit begins with gene A, a caretaker that stops cells from reproducing when times are tough. This is key, because on early planet Earth, most times are tough. The circuit also has a gene B, which encodes for a “silencing” protein. This silencing protein shuts gene A off when times are good, so the cell can make copies of itself when, and only when, it and its offspring will likely survive."
 
 A Kindle User:
 
-18**
+18
 
 "Within this dying mass of cells, each scrapping for and scraping by on the merest minimums of nutrients and moisture, each one doing whatever it can to answer the primal call to reproduce, there is a unique species. Let’s call it Magna superstes. That’s Latin for “great survivor.” It does not look very different from the other organisms of the day, but M. superstes has a distinct advantage: it has evolved a genetic survival mechanism."
 
@@ -63,11 +101,11 @@ A Kindle User:
 15
 
 
-**"95 percent to be precise, are dead before 100."
+**"95 percent to be precise, are dead before 100."**
 
 A Kindle User:
 
-important**
+important
 
 "In part II, I will introduce you to the steps that can be taken right now—and new therapies in development—that may slow, stop, or reverse aging, bringing an end to aging as we know it. And yes, I fully recognize the implications of the words “bringing an end to aging as we know it,” so, in part III, I will acknowledge the many possible futures these actions could create and propose a path to a future that we can look forward to, a world in which the way we can get to an increased lifespan is through an ever-rising healthspan, the portion of our lives spent without disease or disability."
 
