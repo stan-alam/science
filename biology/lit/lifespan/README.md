@@ -8,6 +8,72 @@ This eye-opening and provocative work takes us to the frontlines of research tha
 
 ## 01
 
+**important**
+"Claude Shannon, an electrical engineer from the Massachusetts Institute of Technology (MIT) in Boston. Having lived through World War II, Shannon knew firsthand how the introduction of “noise” into analog radio transmissions could cost lives. After the war, he wrote a short but profound scientific paper called “The Mathematical Theory of Communication” on how to preserve information, which many consider the foundation of Information Theory."
+
+A Kindle User:
+
+Important
+
+
+"Analog data are superior for this job because they can be changed back and forth with relative ease whenever the environment within or outside the cell demands it, and they can store an almost unlimited number of possible values, even in response to conditions that have never been encountered before.25 The unlimited number of possible values is why many audiophiles still prefer the rich sounds of analog storage systems. But even though analog devices have their advantages, they have a major disadvantage. In fact, it’s the reason we’ve moved from analog to digital. Unlike digital, analog information degrades over time—falling victim to the conspiring forces of magnetic fields, gravity, cosmic rays, and oxygen. Worse still, information is lost as it’s copied. No"
+
+A Kindle User:
+
+43
+
+"The other type of information in the body is analog. We don’t hear as much about analog information in the body. That’s in part because it’s newer to science, and in part because it’s rarely described in terms of information, even though that’s how it was first described when geneticists noticed strange nongenetic effects in plants they were breeding. Today, analog information is more commonly referred to as the epigenome, meaning traits that are heritable that aren’t transmitted by genetic means. The term epigenetics was first coined in 1942 by Conrad H. Waddington, a British developmental biologist, while working at Cambridge University. In the past decade, the meaning of the word epigenetics has expanded into other areas of biology that have less to do with heredity—including embryonic development, gene switch networks, and chemical modifications of DNA-packaging proteins—much to the chagrin of orthodox geneticists in my department at Harvard Medical School. In the same way that genetic information is stored as DNA, epigenetic information is stored in a structure called chromatin. DNA in the cell isn’t flailing around disorganized, it is wrapped around tiny balls of protein called histones. These beads on a string self-assemble to form loops, as when you tidy your garden hose on your driveway by looping it into a pile. If you were to play tug-of-war using both ends of a chromosome, you’d end up with a six foot-long string of DNA punctuated by thousands of histone proteins. If you could somehow plug one end of the DNA into a power socket and make the histones flash on and off, a few cells could do you for holiday lights."
+
+A Kindle User:
+
+42
+
+"The first type of information—the type my esteemed predecessors understood—is digital. Digital information, as you likely know, is based on a finite set of possible values—in this instance, not in base 2 or binary, coded as 0s and 1s, but the sort that is quaternary or base 4, coded as adenine, thymine, cytosine, and guanine, the nucleotides A, T, C, G of DNA. Because DNA is digital, it is a reliable way to store and copy information. Indeed, it can be copied again and again with tremendous accuracy, no different in principle from digital information stored in computer memory or on a DVD. DNA is also robust. When I first worked in a lab, I was shocked by how this “molecule of life” could survive for hours in boiling water and thrilled that it was recoverable from Neanderthal remains at least 40,000 years old."
+
+A Kindle User:
+
+40
+
+"antioxidants would extend the lifespan of animals. The results overall were disappointing. Although Harman had some success increasing the average lifespan of rodents, such as with the food additive butylated hydroxytoluene, none showed an increase in maximum lifespan. In other words, a cohort of study animals might live a few weeks longer, on average, but none of the animals was setting records for individual longevity."
+
+A Kindle User:
+
+33
+
+
+"the “Free Radical Theory of Aging,” which blames aging on unpaired electrons that whiz around within cells, damaging DNA through oxidation, especially in mitochondria, because that is where most free radicals are generated."
+
+A Kindle User:
+
+32
+
+"The idea that mutation accumulation causes aging was embraced by scientists and the public alike in the 1950s and 1960s, at a time when the effects of radiation on human DNA were on a lot of people’s minds. But although we know with great certainty that radiation can cause all sorts of problems in our cells, it causes only a subset of the signs and symptoms we observe during aging,10"
+
+A Kindle User:
+
+31
+
+"One hypothesis, proposed independently by Peter Medawar and Leo Szilard, was that aging is caused by DNA damage and a resulting loss of genetic information. Unlike Medawar, who was always a biologist, who built a Nobel Prize–winning career in immunology, Szilard had come to study biology in a roundabout way. The Budapest-born polymath and inventor lived a nomadic life with no permanent job or address, preferring to spend his time staying with colleagues who satisfied his mental curiosities about the big questions facing humanity."
+
+A Kindle User:
+
+30
+
+"Wilbur and Orville Wright could never have built a flying machine without a knowledge of airflow and negative pressure and a wind tunnel. Nor could the United States have put men on the moon without an understanding of metallurgy, liquid combustion, computers, and some measure of confidence that the moon is not made of green cheese.7"
+
+A Kindle User:
+
+29
+
+"These theories fit with observations and are generally accepted. Individuals don’t live forever because natural selection doesn’t select for immortality in a world where an existing body plan works perfectly well to pass along a body’s selfish genes. And because all species are resource limited, they have evolved to allocate the available energy either to reproduction or to longevity, but not to both. That was as true for M. superstes as it was and still is for all species that have ever lived on this planet. **All, that is, except one: Homo sapiens. Having capitalized on its relatively large brain and a thriving civilization to overcome the unfortunate hand that evolution dealt it—weak limbs, sensitivity to cold, poor sense of smell, and eyes that see well only in daylight and in the visible spectrum—this highly unusual species continues to innovate. It has already provided itself with an abundance of food, nutrients, and water while reducing deaths from predation, exposure, infectious diseases, and warfare. These were all once limits to its evolving a longer lifespan. With them removed, a few million years of evolution might double its lifespan, bringing it closer to the lifespans of some other species at the top of their game."**
+
+A Kindle User:
+
+28
+
+Read on the go for free
+
+
 "Kirkwood’s theory is best illustrated by fictitious but potentially real-life examples."
 
 A Kindle User:
