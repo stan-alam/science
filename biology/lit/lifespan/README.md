@@ -8,6 +8,55 @@ This eye-opening and provocative work takes us to the frontlines of research tha
 
 ## 01
 
+"sirtuins do all of this based on a rather simple program—the wondrous gene B in the survival circuit—they’re turning out to be more amenable to manipulation than many other longevity genes. They are, it would appear, one of the first dominos in the magnificent Rube Goldberg machine of life, the key to understanding how our genetic material protects itself during times of adversity, allowing life to persist and thrive for billions of years."
+
+A Kindle User:
+
+53
+
+**"They prevent cell death and boost mitochondria, the power packs of the cell. They go to battle with muscle wasting, osteoporosis, and macular degeneration. In studies on mice, activating the sirtuins can improve DNA repair, boost memory, increase exercise endurance, and help the mice stay thin, regardless of what they eat. These are not wild guesses as to their power; scientists have established all of this in peer-reviewed studies published in journals such as Nature, Cell, and Science."**
+
+A Kindle User:
+
+52
+
+"Trading reproduction for repair, the sirtuins order our bodies to “buckle down” in times of stress and protect us against the major diseases of aging: diabetes and heart disease, Alzheimer’s disease and osteoporosis, even cancer. They mute the chronic, overactive inflammation that drives diseases such as atherosclerosis, metabolic disorders, ulcerative colitis, arthritis, and asthma."
+
+A Kindle User:
+
+51
+
+"sirtuins are enzymes that remove acetyl tags from histones and other proteins and, by doing so, change the packaging of the DNA, turning genes off and on when needed. These critical epigenetic regulators sit at the very top of cellular control systems, controlling our reproduction and our DNA repair. After a few billion years of advancement since the days of yeast, they have evolved to control our health, our fitness, and our very survival. They have also evolved to require a molecule called nicotinamide adenine dinucleotide, or NAD. As we will see later, the loss of NAD as we age, and the resulting decline in sirtuin activity, is thought to be a primary reason our bodies develop diseases when we are old but not when we are young."
+
+A Kindle User:
+
+50
+
+**"The longevity genes I work on are called “sirtuins,” named after the yeast SIR2 gene, the first one to be discovered. There are seven sirtuins in mammals, SIRT1 to SIRT7, and they are made by almost every cell in the body. When I started my research, sirtuins were barely on the scientific radar."**
+
+A Kindle User:
+
+47
+
+"But these genes don’t just make life longer, they make it healthier, which is why they can also be thought of as “vitality genes.” Together, these genes form a surveillance network within our bodies, communicating with one another between cells and between organs by releasing proteins and chemicals into the bloodstream, monitoring and responding to what we eat, how much we exercise, and what time of day it is."
+
+A Kindle User:
+
+47
+
+"But we can usually recover information from a scratched DVD. And if I am right, the same kind of process is what it will take to reverse aging. As cloning beautifully proves, our cells retain their youthful digital information even when we are old."
+
+A Kindle User:
+
+46
+
+
+"His work may ultimately prove to be even more important than that, for what he discovered about preserving and restoring information, I believe, can be applied to aging."
+
+A Kindle User:
+
+45
+
 **important**
 "Claude Shannon, an electrical engineer from the Massachusetts Institute of Technology (MIT) in Boston. Having lived through World War II, Shannon knew firsthand how the introduction of “noise” into analog radio transmissions could cost lives. After the war, he wrote a short but profound scientific paper called “The Mathematical Theory of Communication” on how to preserve information, which many consider the foundation of Information Theory."
 
