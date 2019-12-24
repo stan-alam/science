@@ -8,6 +8,57 @@ This eye-opening and provocative work takes us to the frontlines of research tha
 
 ## 01
 
+"Indeed, many thousands of sequences had gone undetected because the original algorithms to detect genes were written to disregard any gene less than 300 base pairs long. In fact, genes can be as short as 21 base pairs, and today we’re discovering hundreds of them all over the genome."
+
+A Kindle User:
+
+61
+
+# Exons Introns
+"Yet by some estimates, that genetic dark matter accounts for as much as 69 percent of the total genome,1 and even within the regions generally regarded as “coding,” some scientists believe, up to 10 percent has yet to be decoded, including regions that impact aging.2"
+
+A Kindle User:
+
+exons introns
+
+"In this way, we can mimic the benefits of exercise and intermittent fasting with a single pill (I discuss this in chapter 5). Our ability to control all of these genetic pathways will fundamentally transform medicine and the shape of our everyday lives. Indeed, it will change the way we define our species. And yes, I realize how that sounds. So let me explain why."
+
+A Kindle User:
+
+59
+
+"That’s called hormesis.28 Hormesis is generally good for organisms, especially when it can be induced without causing any lasting damage. When hormesis happens, all is well. And, in fact, all is better than well, because the little bit of stress that occurs when the genes are activated prompts the rest of the system to hunker down, to conserve, to survive a little longer. That’s the start of longevity. Complementing these"
+
+A Kindle User:
+
+58
+
+"information loss at the epigenetic level. Here’s the important point: there are plenty of stressors that will activate longevity genes without damaging the cell, including certain types of exercise, intermittent fasting, low-protein diets, and exposure to hot and cold temperatures (I discuss this in chapter 4)."
+
+A Kindle User:
+
+56
+
+**important**
+"The other pathway is a metabolic control enzyme known as AMPK, which evolved to respond to low energy levels. It has also been highly conserved among species and, as with sirtuins and TOR, we have learned a lot about how to control it."
+
+A Kindle User:
+
+56 important
+
+"ancestors were unsuccessful in bringing down a woolly mammoth and had to survive on meager rations of protein, **it was the shutting down of mTOR that permitted them to survive."**
+
+A Kindle User:
+
+53
+
+**important**
+"One of these is called target of rapamycin, or TOR, a complex of proteins that regulates growth and metabolism. Like sirtuins, scientists have found TOR—called mTOR in mammals—in every organism in which they’ve looked for it. Like that of sirtuins, mTOR activity is exquisitely regulated by nutrients. And like the sirtuins, mTOR can signal cells in stress to hunker down and improve survival by boosting such activities as DNA repair, reducing inflammation caused by senescent cells, and, perhaps its most important function, digesting old proteins."
+
+A Kindle User:
+
+important
+
 "sirtuins do all of this based on a rather simple program—the wondrous gene B in the survival circuit—they’re turning out to be more amenable to manipulation than many other longevity genes. They are, it would appear, one of the first dominos in the magnificent Rube Goldberg machine of life, the key to understanding how our genetic material protects itself during times of adversity, allowing life to persist and thrive for billions of years."
 
 A Kindle User:
