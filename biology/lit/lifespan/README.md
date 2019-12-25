@@ -6,13 +6,14 @@ In this groundbreaking book, Dr. David Sinclair, leading world authority on gene
 
 This eye-opening and provocative work takes us to the frontlines of research that is pushing the boundaries on our perceived scientific limitations, revealing incredible breakthroughs—many from Dr. David Sinclair’s own lab at Harvard—that demonstrate how we can slow down, or even reverse, aging. The key is activating newly discovered vitality genes, the descendants of an ancient genetic survival circuit that is both the cause of aging and the key to reversing it. Recent experiments in genetic reprogramming suggest that in the near future we may not just be able to feel younger, but actually become younger.
 
-## 01
+## 02 The demented Pianist
 
 "Indeed, many thousands of sequences had gone undetected because the original algorithms to detect genes were written to disregard any gene less than 300 base pairs long. In fact, genes can be as short as 21 base pairs, and today we’re discovering hundreds of them all over the genome."
 
 A Kindle User:
 
 61
+
 
 # Exons Introns
 "Yet by some estimates, that genetic dark matter accounts for as much as 69 percent of the total genome,1 and even within the regions generally regarded as “coding,” some scientists believe, up to 10 percent has yet to be decoded, including regions that impact aging.2"
@@ -24,6 +25,12 @@ exons introns
 "In this way, we can mimic the benefits of exercise and intermittent fasting with a single pill (I discuss this in chapter 5). Our ability to control all of these genetic pathways will fundamentally transform medicine and the shape of our everyday lives. Indeed, it will change the way we define our species. And yes, I realize how that sounds. So let me explain why."
 
 A Kindle User:
+
+
+
+
+## 01
+
 
 59
 
