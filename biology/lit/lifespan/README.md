@@ -8,6 +8,91 @@ This eye-opening and provocative work takes us to the frontlines of research tha
 
 ## 02 The demented Pianist
 
+"To understand the Information Theory of Aging, we need to pay another visit to the epigenome, the part of the cell that the sirtuins help control."
+
+A Kindle User:
+
+76 
+
+"Broken DNA causes genome instability, I wrote, which distracts the Sir2 protein, which changes the epigenome, causing the cells to lose their identity and become sterile while they fixed the damage. Those were the analog scratches on the digital DVDs. Epigenetic changes cause aging. There was, I imagined, a singular process that controlled them all. Not a countless number of separate cellular changes or diseases. Not even a set of hallmarks that could be addressed one at a time. There was something bigger—and more singular—than any of that. This was the foundation for understanding the survival circuit and its role in aging. The next day I showed Guarente my notes."
+
+A Kindle User:
+
+75
+
+"And what was happening was fascinating. The nucleolus is a part of the nucleus in which ribosomal DNA, or rDNA, resides. rDNA is copied into ribosomal RNA, which is used by ribosome enzymes to stitch amino acids together to make every new protein. In the aged SGS1 cells, the nucleolus looked as if it had exploded. Instead of a single red crescent swimming in a blue ocean, the nucleolus was scattered into half a dozen small islands. It was tragic and beautiful. The picture, which would later appear in the August 1997 issue of the prestigious journal Science, still hangs in my office. What happened next was both enchanting and illuminating. In response to the damage, like rats to the call of the Pied Piper, the protein called Sir2—the first known sirtuin, which is encoded by the gene SIR210 and descended from gene B—had moved away from the mating genes that control fertility and into the nucleolus. That was a beautiful sight to me, but it was a problem for the yeast. Sir2 has an important job: it is an epigenetic factor, an enzyme that sits on genes, bundles up the DNA, and keeps them silent. At the molecular level, Sir2 achieves this via its enzymatic activity, making sure that chemicals called acetyls don’t accumulate on the histones and loosen the DNA packaging. When sirtuins left the mating genes—the ones descended from gene A that controlled fertility and reproduction—the mutant cells turned on both male and female genes, causing them to lose their sexual identity, just as in normal old cells, but much earlier."
+
+A Kindle User:
+
+74
+
+"But those cells weren’t just dying. They were dying after a precipitous decline in health and function. As the SGS1 mutants became older, they slowed down in their cell cycle. They grew larger. Both male and female “mating-type” genes (descendants of gene A) were switched on at the same time, so they were sterile and couldn’t mate. These were all known hallmarks of aging in yeast. And it was happening more quickly in the mutants we’d made. It certainly looked like a yeast version of Werner’s."
+
+A Kindle User:
+
+73 important
+
+"After the swap, the yeast cells’ lifespan was cut in half. Ordinarily, this would not have been news. Many events unrelated to aging—such as being eaten by a mite, drying out on a grape, or being placed in an oven—can and do shorten the lifespan of yeast cells. And here we’d messed with their DNA, which could have short-circuited the cells in a thousand different ways to cause early death."
+
+A Kindle User:
+
+73
+
+"In yeast, the equivalent of the WRN gene is Slow Growth Suppressor 1, or SGS1. The gene was already suspected to code for a type of enzyme called a DNA helicase that untangles tangled strands of DNA before they break. Helicases are especially important in repetitive DNA sequences that are inherently prone to tangling and breaking. Functionality of proteins, such as the ones coded for by the Werner gene, is therefore vital, since more than half of our genome is, in fact, repetitive."
+
+A Kindle User:
+
+71
+
+"studying Werner syndrome, a terrible disease that occurs in less than 1 in 100,000 live births, with symptoms that include a loss of body strength, wrinkles, gray hair, hair loss, cataracts, osteoporosis, heart problems, and many other telltale signs of aging—not among folks in their 70s and 80s but rather among people in their 30s and 40s. Life expectancy"
+
+A Kindle User:
+
+70
+
+"Afterward, two things became clear. One, don’t bring wine to an interview because it can be seen as a bribe. And two, Melton must have liked what I said and how I said it, because I flew home, got the fellowship, and then got onto a plane back to Boston. It was, without a doubt, the most life-changing meeting of my life.8"
+
+A Kindle User:
+
+69
+
+giant in the stem cell field, Douglas Melton, for a Helen Hay Whitney Foundation Fellowship, which has been providing research support to postdoctoral biomedical students since 1947. After waiting in line outside his office with the other four candidates, I had my chance. This was my moment. I don’t remember being nervous. I figured I probably wouldn’t get the award anyway. So I went for it."
+
+A Kindle User:
+
+66
+
+"yeast cells experience it in a week. That makes them a pretty good place to start in the quest to understand aging. Indeed, the potential for a humble yeast to tell us so much about ourselves—and do so quite quickly relative to other research organisms—was a big part of the reason I decided to begin my career by studying S. cerevisiae. They also smell like fresh bread."
+
+A Kindle User:
+
+67
+
+"Yes, humans are separated from yeast by a billion years of evolution, but we still have a lot in common. S. cerevisiae shares some 70 percent of our genes. And what it does with those genes isn’t so different from what we do with them. Like a whole lot of humans, yeast cells are almost always trying to do one of two things: either they’re trying to eat, or they’re trying to reproduce. They’re hungry or they’re horny. As they age, much like humans, they slow down and grow larger, rounder, and less fertile."
+
+A Kindle User:
+
+66
+
+"“Visionary” was another. “Brilliant,” “inquisitive,” and “hardworking,” too. But I’ve long been inspired by the example Mortimer set for his fellow scientists. Mortimer, who died in 2007, had played a tremendously important role in elevating Saccharomyces cerevisiae from a seemingly lowly, single-celled yeast with a sweet tooth (its name means “sugar-loving”) to its rightful place as one of the world’s most important research organisms."
+
+A Kindle User:
+
+65
+
+"Robert Mortimer,"
+
+A Kindle User:
+
+64
+
+"We won’t be able to find an aging gene. We have found genes that impact the symptoms of aging. We’ve found longevity genes that control the body’s defenses against aging and thus offer a path to slowing aging through natural, pharmaceutical, and technological interventions. But unlike the oncogenes that were discovered in the 1970s and that have given us a good target for going to battle against cancer, we haven’t identified a singular gene that causes aging. And we won’t. Because our genes did not evolve to cause aging."
+
+A Kindle User:
+
+63
+
+
 "Indeed, many thousands of sequences had gone undetected because the original algorithms to detect genes were written to disregard any gene less than 300 base pairs long. In fact, genes can be as short as 21 base pairs, and today we’re discovering hundreds of them all over the genome."
 
 A Kindle User:
