@@ -8,11 +8,42 @@ This eye-opening and provocative work takes us to the frontlines of research tha
 
 ## 02 The demented Pianist
 
+"We called those loops extrachromosomal ribosomal DNA circles, or ERCs, and they were accumulating as the mutants aged. If we had indeed induced aging, then we would see this same pattern emerge in yeast cells that had aged normally."
+
+A Kindle User:
+
+83
+
+"The highly repetitive ribosomal DNA (rDNA) is unstable, and toxic DNA circles form; these recombine and eventually accumulate to toxic levels in old cells, killing them. In response to DNA circles and the perceived genome instability, Sir2 moves away from silent mating-type genes to help stabilize the genome. Both male and female genes turn on, causing infertility, the main hallmark of yeast aging."
+
+A Kindle User:
+
+82
+
+Epigenetic noise causes the same kind of chaos. It is driven in large part by highly disruptive insults to the cell, such as broken DNA, as it was in the original survival circuit of M. superstes and in the old yeast cells that lost their fertility. And this, according to the Information Theory of Aging, is why we age. It’s why our hair grays. It’s why our skin wrinkles. It’s why our joints begin to ache. Moreover, it’s why each one of the hallmarks of aging occurs, from stem cell exhaustion and cellular senescence to mitochondrial dysfunction and rapid telomere shortening. This is, I acknowledge, a bold theory. And the strength of a theory is based on how well it predicts the results of rigorous experiments, often millions of them, the number of phenomena it can explain, and its simplicity. The theory was simple, and it explained a lot. As good scientists, what we had left to do was to try our best to disprove it and see how long it survived."
+
+A Kindle User:
+
+82
+
+"take a few thousand.14 Each key can also be played pianissimo (soft) or forte (with force). The notes can be tenuto (held) or allegretto (played quickly). For master pianists, there are hundreds of ways to play each individual key and endless ways to play the keys together, in chords and combinations that create music we know as jazz, ragtime, rock, reggae, waltzes, whatever. The pianist that makes this happen is the epigenome. Through a process of revealing our DNA or bundling it up in tight protein packages, and by marking genes with chemical tags called methyls and acetyls composed of carbon, oxygen, and hydrogen, the epigenome uses our genome to make the music of our lives. Yes, sometimes the size, shape, and condition of a piano dictate what a pianist can do with it. It’s tough to play a concerto on an eighteen-key toy piano, and it’s mighty hard to make beautiful music on an instrument that hasn’t been tuned in fifty years. Likewise, the genome certainly dictates what the epigenome can do. A caterpillar can’t become a human being, but it can become a butterfly by virtue of changes in epigenetic expression that occur during metamorphosis, even though its genome never changes. Similarly, the child of two parents from a long line of people with black hair and brown eyes isn’t likely to develop blond hair and blue eyes, but twin agouti mice in the lab can turn out brown or golden, depending on how much the Agouti gene is turned on during gestation by environmental influences on the epigenome, such as folic acid, vitamin B12, genistein from soy, or the toxin bisphenol A.15 Similarly, among monozygotic human twins, epigenetic forces can drive two people with the same genome in vastly different directions. It can even cause them to age differently. You can see this clearly in side-by-side photographs of the faces of smoking and nonsmoking twins; their DNA is still largely the same, but the smokers have bigger bags under their eyes, deeper jowls below their chins, and more wrinkles around their eyes and mouths. They are not older, but they’ve clearly aged faster. Studies of identical twins place the genetic influences on longevity at between 10 and 25 percent which, by any estimation, is surprisingly low.16 Our DNA is not our destiny. Now imagine you’re in a concert hall. A virtuoso pianist is seated at a gorgeously polished Steinway grand. The concerto begins. The music is beautiful, breathtaking. Everything is perfect. But then, a few minutes into the piece, the pianist misses a key. The first time it happens, it’s almost unnoticeable—an extra D, perhaps, in a chord that doesn’t need that note. Embedded in so many perfectly played notes, hidden among an otherwise flawless chord in an otherwise perfect melody, it’s nothing to worry about. But then, a few minutes later, it happens again. And then, with increasing frequency, again and again and again. It’s important to remember that there is nothing wrong with the piano. And the pianist is playing most of the notes prescribed by the composer. She’s just also playing some extra notes. Initially, this is just annoying. Over time it becomes unsettling. Eventually it ruins the concerto. Indeed, we’d assume that there was something wrong with the pianist. Someone might even rush onto the stage to make sure she"
+
+A Kindle User:
+
+78
+
+"Sirtuins instruct the histone spooling proteins to bind up DNA tightly, while they leave other regions to flail around. In this way, some genes stay silent, while others can be accessed by DNA-binding transcription factors that turn genes on.12 Accessible genes are said to be in “euchromatin,” while silent genes are in “heterochromatin.” By removing chemical tags on histones, sirtuins help prevent transcription factors from binding to genes, converting euchromatin into heterochromatin. Every one of our cells has the same DNA, of course, so what differentiates a nerve cell from a skin cell is the epigenome, the collective term for the control systems and cellular structures that tell the cell which genes should be turned on and which should remain off. And this, far more than our genes, is what actually controls much of our lives. One of the best ways to visualize this is to think of our genome as a grand piano.13 Each gene is a key. Each key produces a note. And from instrument to instrument, depending on the maker, the materials, and the circumstances of manufacturing, each will sound a bit different, even if played the exact same way. These are our genes. We have about 20,000 of them, give or"
+
+A Kindle User:
+
+75
+
+
 "To understand the Information Theory of Aging, we need to pay another visit to the epigenome, the part of the cell that the sirtuins help control."
 
 A Kindle User:
 
-76 
+76
 
 "Broken DNA causes genome instability, I wrote, which distracts the Sir2 protein, which changes the epigenome, causing the cells to lose their identity and become sterile while they fixed the damage. Those were the analog scratches on the digital DVDs. Epigenetic changes cause aging. There was, I imagined, a singular process that controlled them all. Not a countless number of separate cellular changes or diseases. Not even a set of hallmarks that could be addressed one at a time. There was something bigger—and more singular—than any of that. This was the foundation for understanding the survival circuit and its role in aging. The next day I showed Guarente my notes."
 
