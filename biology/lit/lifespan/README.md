@@ -8,6 +8,48 @@ This eye-opening and provocative work takes us to the frontlines of research tha
 
 ## 02 The demented Pianist
 
+"That was the first step of the survival circuit, though at the time we had no idea that it was as ancient and as essential to our very existence as it turned out to be. We told the world that we could give yeast a Werner-like syndrome, causing exploded nucleoli.18 We described the ways in which mutants of SGS1, those we’d plagued with the yeast equivalent to the Werner syndrome mutation, accumulated ERCs more rapidly, leading to premature aging and a shortened lifespan.19 Crucially, by demonstrating that if you add an ERC to young cells they age prematurely, we had crucial evidence that ERCs don’t just happen during aging, they cause it. And by artificially breaking the DNA in the cell and watching the cellular response, we showed why sirtuins move—to help with DNA repair."
+
+A Kindle User:
+
+92 
+
+"When I began my career in this field, I dreamt of publishing just one study in a top-tier journal. During those years, our group was publishing one every few months."
+
+A Kindle User:
+
+92
+
+**"sirtuins are NAD-utilizing enzymes and now does research into how the body controls sirtuins;"**
+
+A Kindle User:
+
+91
+
+"Theories must be tested and tested and tested some more—not just by one scientist but by many. And to that end, I was fortunate to have been put onto a research team that included some of the most brilliant and insightful scientists in the world."
+
+A Kindle User:
+
+90
+
+"of aging into one universal model of life and death. It looked like this: Youth → broken DNA → genome instability → disruption of DNA packaging and gene regulation (the epigenome) → loss of cell identity → cellular senescence → disease → death. The implications were profound: if we could intervene in any of these steps, we might help people live longer."
+
+A Kindle User:
+
+important 89
+
+"Just like the mutants, the normal old yeast cells were packed with ERCs. That was a “Eureka!” moment. Not proof—a good scientist never has proof of anything—but the first substantial confirmation of a theory, the foundation upon which I and others would build more discoveries in the years to come. The first testable prediction was if we put an ERC into very young yeast cells—and we devised a genetic trick to do that—the ERCs would multiply and distract the sirtuins, and the yeast cells would age prematurely, go sterile, and die young—and they did. We published that work in December 1997 in the scientific journal Cell, and the news broke around the world: “Scientists figured out a cause of aging.” It was there and then that Matt Kaeberlein, a PhD student at the time, arrived at the lab. His first experiment was to insert an extra copy of SIR2 into the genome of yeast cells to see if it could stabilize the yeast genome and delay aging. When the extra SIR2 was added, ERCs were prevented, and he saw a 30 percent increase in the yeast cells’ lifespan, as we’d been hoping. Our hypothesis seemed to be standing up to scrutiny: the fundamental, upstream cause of sterility and aging in yeast was the inherent instability of the genome."
+
+A Kindle User:
+
+85.86.87.88
+
+"We don’t count the age of a single yeast cell with birthday candles. They simply don’t last that long. Instead, aging in yeast is measured by the number of times a mother cell divides to produce daughter cells. In most cases, a yeast cell gets to about 25 divisions before it dies. That, however, makes obtaining old yeast cells an exceptionally challenging task. Because by the time an average yeast cell expires, it is surrounded by 225, or 33 million, of its descendants."
+
+A Kindle User:
+
+84
+
 "We called those loops extrachromosomal ribosomal DNA circles, or ERCs, and they were accumulating as the mutants aged. If we had indeed induced aging, then we would see this same pattern emerge in yeast cells that had aged normally."
 
 A Kindle User:
