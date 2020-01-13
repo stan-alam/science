@@ -8,11 +8,32 @@ This eye-opening and provocative work takes us to the frontlines of research tha
 
 ## 02 The demented Pianist
 
+"Among the reasons, the team reported in the journal Cancer Cell, was an impaired ability to respond to and repair DNA damage.27 In 2006, Frederick Alt, Katrin Chua, and Raul Mostovslavsky at Harvard showed that mice engineered to lack SIRT6 underwent the typical signs of aging faster along with shortened lifespans.28 When the scientists knocked out a cell’s ability to create this vital protein, the cell lost its ability to repair double-strand DNA breaks, just as we had showed in yeast back in 1999."
+
+A Kindle User:
+
+98.99 
+
+
+"22 But the true extent to which the survival circuit is conserved between yeast and humans wasn’t fully known until 2017, when Eva Bober’s team at the Max Planck Institute for Heart and Lung Research in Bad Nauheim, Germany, reported that sirtuins stabilize human rDNA.23 Then, in 2018, Katrin Chua at Stanford University found that, by stabilizing human rDNA, sirtuins prevent cellular senescence—essentially the same antiaging function as we had found for sirtuins in yeast twenty years earlier.24 That was an astonishing revelation: over a billion years of separation between yeast and us, and, in essence, the circuit hadn’t changed. By the time those findings appeared, though, it was clear to me that epigenomic noise was a likely catalyst of human aging. Two decades of research had already been leading us in that direction.25"
+
+A Kindle User:
+
+94.95.96
+
+
+"It was epigenomic noise in its purest form. It took another twenty years to learn if those findings in yeast were relevant to organisms more complex than yeast. We mammals have seven sirtuin genes that have evolved a variety of functions beyond what simple SIR2 can do. Three of them, SIRT1, SIRT6, and SIRT7, are critical to the control of the epigenome and DNA repair. The others, SIRT3, SIRT4, and SIRT5, reside in mitochondria, where they control energy metabolism, while SIRT2 buzzes around the cytoplasm, where it controls cell division and healthy egg production. There had been many clues along the way. Brown University’s Stephen Helfand showed that adding extra copies of the dSir2 gene to fruit flies suppresses epigenetic noise and extends their lifespan."
+
+A Kindle User:
+
+93.94
+
+
 "That was the first step of the survival circuit, though at the time we had no idea that it was as ancient and as essential to our very existence as it turned out to be. We told the world that we could give yeast a Werner-like syndrome, causing exploded nucleoli.18 We described the ways in which mutants of SGS1, those we’d plagued with the yeast equivalent to the Werner syndrome mutation, accumulated ERCs more rapidly, leading to premature aging and a shortened lifespan.19 Crucially, by demonstrating that if you add an ERC to young cells they age prematurely, we had crucial evidence that ERCs don’t just happen during aging, they cause it. And by artificially breaking the DNA in the cell and watching the cellular response, we showed why sirtuins move—to help with DNA repair."
 
 A Kindle User:
 
-92 
+92
 
 "When I began my career in this field, I dreamt of publishing just one study in a top-tier journal. During those years, our group was publishing one every few months."
 
