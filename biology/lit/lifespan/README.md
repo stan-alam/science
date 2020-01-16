@@ -8,11 +8,23 @@ This eye-opening and provocative work takes us to the frontlines of research tha
 
 ## 02 The demented Pianist
 
+**"In yeast, we had shown that DNA breaks cause sirtuins to relocalize away from silent mating-type genes, causing old cells to become sterile. That was a simple system, and we’d figured it out in a few years. But is the survival circuit causing aging in mammals? What parts of the system survived the billion years, and which are yeast specific? Those questions are on the cutting edge of human knowledge right now, but the answers are beginning to reveal themselves."**
+
+A Kindle User:
+
+important 101
+
+"If you are skeptical, and you should be, you might assume these SIRT mutant mice could just be sick and, therefore, short lived. But adding in more copies of the sirtuin genes SIRT1 and SIRT6 does just the opposite: it increases the health and extends the lifespan of mice, just as adding extra copies of the yeast SIR2 gene does in yeast."
+
+A Kindle User:
+
+100
+
 "Among the reasons, the team reported in the journal Cancer Cell, was an impaired ability to respond to and repair DNA damage.27 In 2006, Frederick Alt, Katrin Chua, and Raul Mostovslavsky at Harvard showed that mice engineered to lack SIRT6 underwent the typical signs of aging faster along with shortened lifespans.28 When the scientists knocked out a cell’s ability to create this vital protein, the cell lost its ability to repair double-strand DNA breaks, just as we had showed in yeast back in 1999."
 
 A Kindle User:
 
-98.99 
+98.99
 
 
 "22 But the true extent to which the survival circuit is conserved between yeast and humans wasn’t fully known until 2017, when Eva Bober’s team at the Max Planck Institute for Heart and Lung Research in Bad Nauheim, Germany, reported that sirtuins stabilize human rDNA.23 Then, in 2018, Katrin Chua at Stanford University found that, by stabilizing human rDNA, sirtuins prevent cellular senescence—essentially the same antiaging function as we had found for sirtuins in yeast twenty years earlier.24 That was an astonishing revelation: over a billion years of separation between yeast and us, and, in essence, the circuit hadn’t changed. By the time those findings appeared, though, it was clear to me that epigenomic noise was a likely catalyst of human aging. Two decades of research had already been leading us in that direction.25"
