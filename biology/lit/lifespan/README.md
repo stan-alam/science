@@ -8,6 +8,12 @@ This eye-opening and provocative work takes us to the frontlines of research tha
 
 ## 02 The demented Pianist
 
+"What I’m suggesting is that the SIR2 gene in yeast and the SIRT genes in mammals are all descendants of gene B, the original gene silencer"
+
+A Kindle User:
+
+102 
+
 **"In yeast, we had shown that DNA breaks cause sirtuins to relocalize away from silent mating-type genes, causing old cells to become sterile. That was a simple system, and we’d figured it out in a few years. But is the survival circuit causing aging in mammals? What parts of the system survived the billion years, and which are yeast specific? Those questions are on the cutting edge of human knowledge right now, but the answers are beginning to reveal themselves."**
 
 A Kindle User:
