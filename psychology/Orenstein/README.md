@@ -1,0 +1,7 @@
+## notes on Boys and sex
+
+Orenstein
+
+Peggy Orenstein’s Girls & Sex broke ground, shattered taboos, and launched conversations about young women’s right to pleasure and agency in sexual encounters. It also had an unexpected effect on its author: Orenstein realized that talking about girls is only half the conversation. Boys are subject to the same cultural forces as girls—steeped in the same distorted media images and binary stereotypes of female sexiness and toxic masculinity—which equally affect how they navigate sexual and emotional relationships. In Boys & Sex, Peggy Orenstein dives back into the lives of young people to once again give voice to the unspoken, revealing how young men understand and negotiate the new rules of physical and emotional intimacy.
+
+Drawing on comprehensive interviews with young men, psychologists, academics, and experts in the field, Boys & Sex dissects so-called locker room talk; how the word “hilarious” robs boys of empathy; pornography as the new sex education; boys’ understanding of hookup culture and consent; and their experience as both victims and perpetrators of sexual violence. By surfacing young men’s experience in all its complexity, Orenstein is able to unravel the hidden truths, hard lessons, and important realities of young male sexuality in today’s world. The result is a provocative and paradigm-shifting work that offers a much-needed vision of how boys can truly move forward as better men.
