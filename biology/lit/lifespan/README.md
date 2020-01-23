@@ -8,11 +8,53 @@ This eye-opening and provocative work takes us to the frontlines of research tha
 
 ## 02 The demented Pianist
 
+"Living for 28 divisions was no advantage over those that lived for 24 and, because Sir2 uses up energy, having more of the protein may have even been a disadvantage. In the lab, however, we don’t notice any disadvantage because the yeast are given more sugar than they could possibly ever eat."
+
+A Kindle User:
+
+110
+
+"This is why adding an extra copy of the SIR2 gene extends lifespan and delays infertility: cells have enough Sir2 to repair DNA breaks and enough Sir2 to silence the mating-type genes."
+
+A Kindle User:
+
+109
+
+"How does the SIR2 gene actually turn off genes? SIR2 codes for a specialized protein called a histone deacetylase, or HDAC, that enzymatically cleaves the acetyl chemical tags from histones, which, as you’ll recall, causes the DNA to bundle up, preventing it from being transcribed into RNA."
+
+A Kindle User:
+
+107.108
+
+"When sirtuins shift from their typical priorities to engage in DNA repair, their epigenetic function at home ends for a bit. Then, when the damage is fixed and they head back to home base, they get back to doing what they usually do: controlling genes and making sure the cell retains its identity and optimal function."
+
+A Kindle User:
+
+106
+
+"I’ve come to think of sirtuins as the directors of a multifaceted disaster response corps, sending out a variety of specialized emergency teams to address DNA stability, DNA repair, cell survivability, metabolism, and cell-to-cell communication. In a way, this is like the command center for the thousands of utility workers who descended upon Louisiana and Mississippi in the wake of Hurricane Katrina in 2005. Most of the workers weren’t from the Gulf Coast, but they came, did their level best to fix what was broken, and then went home. Some were working in the storm-ravaged communities for a few days and others for a few weeks before returning to their normal lives. And for most, it wasn’t the first or last time they had done something like that; anytime there’s a mass disaster"
+
+A Kindle User:
+
+104.105
+
+"They remove acetyls from hundreds of proteins in the cell: histones, yes, but also proteins that control cell division, cell survival, DNA repair, inflammation, glucose metabolism, mitochondria, and many"
+
+A Kindle User:
+
+103-B
+
 "What I’m suggesting is that the SIR2 gene in yeast and the SIRT genes in mammals are all descendants of gene B, the original gene silencer"
 
 A Kindle User:
 
-102 
+"They remove acetyls from hundreds of proteins in the cell: histones, yes, but also proteins that control cell division, cell survival, DNA repair, inflammation, glucose metabolism, mitochondria, and many"
+
+A Kindle User:
+
+103-A
+
+102
 
 **"In yeast, we had shown that DNA breaks cause sirtuins to relocalize away from silent mating-type genes, causing old cells to become sterile. That was a simple system, and we’d figured it out in a few years. But is the survival circuit causing aging in mammals? What parts of the system survived the billion years, and which are yeast specific? Those questions are on the cutting edge of human knowledge right now, but the answers are beginning to reveal themselves."**
 
