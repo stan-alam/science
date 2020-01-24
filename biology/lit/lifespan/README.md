@@ -8,6 +8,18 @@ This eye-opening and provocative work takes us to the frontlines of research tha
 
 ## 02 The demented Pianist
 
+"The mice might have died. They might have grown tumors. Or they might have been perfectly fine, no worse off than if they’d received a dental X-ray. Nobody had ever done this before in a mouse, so we didn’t know. But if our hypothesis about epigenetic instability and aging was correct, the tamoxifen would work like the potion that Fred and George Weasley used to age themselves in Harry Potter and the Goblet of Fire."
+
+A Kindle User:
+
+113
+
+"That’s in a slime mold, its native habitat. But when I-PpoI finds itself in a mouse cell, it doesn’t have all the slime mold machinery to copy itself. So it floats around and cuts DNA at just a few places in the mouse genome, and there is no copying process. Instead, the cell has no problem pasting the DNA strands back together, leaving no mutations, which is exactly what we were looking for to engage the survival circuit and distract the sirtuins. DNA-editing genes such as Cas9 and I-PpoI are nature’s gifts to science."
+
+A Kindle User:
+
+111-112
+
 "Living for 28 divisions was no advantage over those that lived for 24 and, because Sir2 uses up energy, having more of the protein may have even been a disadvantage. In the lab, however, we don’t notice any disadvantage because the yeast are given more sugar than they could possibly ever eat."
 
 A Kindle User:
