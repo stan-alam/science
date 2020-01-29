@@ -8,6 +8,51 @@ This eye-opening and provocative work takes us to the frontlines of research tha
 
 ## 02 The demented Pianist
 
+"Yet even over the course of many thousands of years, their cells do not appear to have undergone any decline in function. Scientists call this “negligible senescence.” Indeed, when a team from the Institute of Forest Genetics went looking for signs of cellular aging—studying bristlecones from 23 to 4,713 years old—they came up empty-handed. Between young and old trees, their 2001 study found, there were no meaningful differences in the chemical transportation systems, in the rate of shoot growth, in the quality of the pollen they produced, in the size of their seeds, or in the way those seeds germinated.33 The researchers also looked for deleterious mutations—the sorts of which many scientists at the time expected to be a primary cause of aging."
+
+A Kindle User:
+
+121
+
+"Bristlecones are, after all, our eukaryotic cousins. About half of their genes are close relatives of ours."
+
+A Kindle User:
+
+120
+
+"California’s White Mountains strike haunting silhouettes against the dewy morning sun. The oldest of these trees have been here since before the pyramids of Egypt were built, before the construction of Stonehenge, and before the last of the woolly mammoths left our world. They have shared this planet with Moses, Jesus, Muhammad, and the first Buddha. Standing some two miles above sea level, adding fractions of a millimeter of growth to their twisted trunks each year, defying lightning storms and periodic droughts, they are the epitome of perseverance."
+
+A Kindle User:
+
+119
+
+**"We hadn’t touched their telomeres. We hadn’t messed with their mitochondria. We hadn’t directly exhausted their stem cells. Yet the ICE mice were suffering from a loss of body mass, mitochondria, and muscle strength and an increase in cataracts, arthritis, dementia, bone loss, and frailty."
+
+A Kindle User:
+
+important 118**
+
+"In another manner of thinking, we’d scratched up the DVD of life about 50 percent faster than it normally gets scratched. The digital code that is, and was, the basic blueprint for our mice was the same as it had always been. But the analog machine built to read that code was able to pick up only bits and pieces of the data."
+
+A Kindle User:
+
+117
+
+"Steve’s name stuck, and today he’s the namesake of the Horvath Clock—an accurate way of estimating someone’s biological age by measuring thousands of epigenetic marks on the DNA, called methylation. We tend to think of aging as something that begins happening to us at midlife, because that’s when we start to see significant changes to our bodies. But Horvath’s clock begins ticking the moment we are born. Mice have an epigenetic clock, too. Were the ICE mice older than their siblings? Yes, they were—about 50 percent older."
+
+A Kindle User:
+
+116
+
+"A tamoxifen-triggered ICE mouse at the same age has thinning, graying hair, a bent spine, paper-thin ears, and cloudy eyes. Remember, we’d done nothing to change the genome. We’d simply broken the mice’s DNA in places where there aren’t any genes and forced the cell to paste, or “ligate,” them back together. Just to make sure, later we broke the DNA in other places, too, with the same results. Those breaks had induced a sirtuin response."
+
+A Kindle User:
+
+115
+
+114 "“That’s not a sick mouse,” I replied. “That’s an old mouse.”
+
+
 "The mice might have died. They might have grown tumors. Or they might have been perfectly fine, no worse off than if they’d received a dental X-ray. Nobody had ever done this before in a mouse, so we didn’t know. But if our hypothesis about epigenetic instability and aging was correct, the tamoxifen would work like the potion that Fred and George Weasley used to age themselves in Harry Potter and the Goblet of Fire."
 
 A Kindle User:
