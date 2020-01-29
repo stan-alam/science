@@ -1,4 +1,4 @@
-## notes on 'LifeSpan'
+﻿## notes on 'LifeSpan'
 
 It’s a seemingly undeniable truth that aging is inevitable. But what if everything we’ve been taught to believe about aging is wrong? What if we could choose our lifespan?
 
@@ -7,6 +7,37 @@ In this groundbreaking book, Dr. David Sinclair, leading world authority on gene
 This eye-opening and provocative work takes us to the frontlines of research that is pushing the boundaries on our perceived scientific limitations, revealing incredible breakthroughs—many from Dr. David Sinclair’s own lab at Harvard—that demonstrate how we can slow down, or even reverse, aging. The key is activating newly discovered vitality genes, the descendants of an ancient genetic survival circuit that is both the cause of aging and the key to reversing it. Recent experiments in genetic reprogramming suggest that in the near future we may not just be able to feel younger, but actually become younger.
 
 ## 02 The demented Pianist
+
+ "40 For example, having a C instead of a T variant at position rs2764264 is associated with longer life. Two of our children, Alex and Natalie, inherited two Cs at this position, one from Sandra and one from me, so all other genes being equal, and as long as they don’t live terribly negative lifestyles, they should have greater odds of reaching age 95 than I do, with my one C and one T, and substantially greater than someone with two Ts. It’s worth pausing to consider how remarkable it is that we find essentially the same longevity genes in every organism on the planet: trees, yeast, worms, whales, and humans. All living creatures come from the same place in primordium that we do. When we look through a microscope, we’re all made of the same stuff. We all share the survival circuit, a protective cellular network that helps us when times are tough. This same network is our downfall. Severe types of damage, such as broken strands of DNA, cannot be avoided. They overwork the survival circuit and change cellular identity. We’re all subject to epigenetic noise that should, under the Information Theory of Aging, cause aging. Yet different organisms age at very different rates. And sometimes, it appears, they do not age at all. What allows a whale to keep the survival circuit on without disrupting the epigenetic symphony? If the piano player’s skills are lost, how is it possible for a jellyfish to restore her ability? These are the questions that have been guiding my thoughts as I have considered where our research is headed."
+
+A Kindle User:
+
+126
+
+ "Turns out, worms become dauer when they are starved or crowded, hunkering down until times improve. Mutations that activate DAF-16 extend lifespan by turning on the worm defense program even when times are good."
+
+A Kindle User:
+
+125
+
+ "Back in 2007, aboriginal hunters in Alaska caught a bowhead whale that, when butchered, was found to have the head of an old harpoon embedded in its blubber. The weapon, historians would later determine, had been manufactured in the late 1800s, and they estimated the whale’s age at about 130. That discovery sparked a new scientific interest in Balaena mysticetus, and later research, employing an age-determining method that measures the levels of aspartic acid in the lens of a whale’s eye, estimated that one bowhead was 211 years old when it was killed by native whalers."
+
+A Kindle User:
+
+124
+
+
+ "Somniosus microcephalus is still an impressive animal and far more closely related to us. About the size of a great white, it does not even reach sexual maturity until it is 150 years old. Researchers believe the Arctic Ocean could be home to Greenland sharks that were born before Columbus got lost in the New World. Radiocarbon dating estimated that one very large individual may have lived more than 510 years, at least up until it was caught by scientists so they could measure its age. Whether this shark’s cells undergo aging is an open scientific question; very few biologists had so much as looked at S. microcephalus until the past few years. At the very least, this longest-living vertebrate undergoes the process of aging very, very slowly."
+
+A Kindle User:
+
+123
+
+ "Bristlecones are outliers in the biological world, but they are not unique in their defiance of aging. The freshwater polyp known as Hydra vulgaris has also evolved to defy senescence. Under the right conditions, these tiny cnidarians have demonstrated a remarkable refusal to age. In the wild they might live for only a few months, subject to the powers of predation, disease, and desiccation. But in labs around the world they have been kept alive for upward of 40 years—with no signs that they’ll stop there—and indicators of health don’t differ significantly between the very young and the very old. A couple of species of jellyfish can completely regenerate from adult body parts, earning them the nickname “immortal jellies.”"
+
+A Kindle User:
+
+122
 
 "Yet even over the course of many thousands of years, their cells do not appear to have undergone any decline in function. Scientists call this “negligible senescence.” Indeed, when a team from the Institute of Forest Genetics went looking for signs of cellular aging—studying bristlecones from 23 to 4,713 years old—they came up empty-handed. Between young and old trees, their 2001 study found, there were no meaningful differences in the chemical transportation systems, in the rate of shoot growth, in the quality of the pollen they produced, in the size of their seeds, or in the way those seeds germinated.33 The researchers also looked for deleterious mutations—the sorts of which many scientists at the time expected to be a primary cause of aging."
 
