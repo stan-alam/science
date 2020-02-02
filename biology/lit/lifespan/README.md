@@ -8,6 +8,43 @@ This eye-opening and provocative work takes us to the frontlines of research tha
 
 ## 02 The demented Pianist
 
+"That’s aging. This loss of information is what leads each of us into a world of heart disease, cancer, pain, frailty, and death. If the loss of analog information is the singular reason why we age, is there anything we can do about it? Can we stabilize the marbles, keeping the valley walls high and the gravity strong? Yes. I can say with confidence that there is."
+
+A Kindle User:
+
+132
+
+"the survival circuit. The repeated shuffling of sirtuins and other epigenetic factors away from genes to sites of broken DNA, then back again, while helpful in the short term, is ultimately what causes us to age. Over time, the wrong genes come on at the wrong time and in the wrong place."
+
+A Kindle User:
+
+131-132
+
+"If the epigenome had evolved to be digital rather than analog, the valley walls would be the equivalent of 100 miles high and vertical, and gravity would be superstrong, so the marbles could never jump over into a new valley. Cells would never lose their identity. If we were built this way, we could be healthy for thousands of years, perhaps longer."
+
+A Kindle User:
+
+130
+
+"the cell’s “fate.” We used to think this was a one-way street, an irreversible path. But in biology there is no such thing as fate. In the last decade, we’ve learned that the marbles in the Waddington landscape aren’t fixed; they have a terrible tendency to move around over time."
+
+A Kindle User:
+
+129
+
+"On the Waddington map, an embryonic stem cell is represented by a marble at the top of a mountain peak. During embryonic development, the marble rolls down the hill and comes to rest in one of hundreds of different valleys, each representing a different possible cell type in the body. This is called “differentiation.” The epigenome guides the marbles, but it also acts as gravity after the cells come to rest, ensuring that they don’t move back up the slope or hop over into another valley."
+
+A Kindle User:
+
+128
+
+"Waddington’s ponderings came in the dawning years of the digital revolution, at the same time that Grace Hopper, the mother of computer programming, was laying the foundation for the first widely used computer language, COBOL. In essence, what Waddington was seeking to ascertain was how cells, all running on the same code, could possibly produce different programs."
+
+A Kindle User:
+
+127
+
+
  "40 For example, having a C instead of a T variant at position rs2764264 is associated with longer life. Two of our children, Alex and Natalie, inherited two Cs at this position, one from Sandra and one from me, so all other genes being equal, and as long as they don’t live terribly negative lifestyles, they should have greater odds of reaching age 95 than I do, with my one C and one T, and substantially greater than someone with two Ts. It’s worth pausing to consider how remarkable it is that we find essentially the same longevity genes in every organism on the planet: trees, yeast, worms, whales, and humans. All living creatures come from the same place in primordium that we do. When we look through a microscope, we’re all made of the same stuff. We all share the survival circuit, a protective cellular network that helps us when times are tough. This same network is our downfall. Severe types of damage, such as broken strands of DNA, cannot be avoided. They overwork the survival circuit and change cellular identity. We’re all subject to epigenetic noise that should, under the Information Theory of Aging, cause aging. Yet different organisms age at very different rates. And sometimes, it appears, they do not age at all. What allows a whale to keep the survival circuit on without disrupting the epigenetic symphony? If the piano player’s skills are lost, how is it possible for a jellyfish to restore her ability? These are the questions that have been guiding my thoughts as I have considered where our research is headed."
 
 A Kindle User:
