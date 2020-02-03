@@ -8,9 +8,6 @@ This eye-opening and provocative work takes us to the frontlines of research tha
 
 ## 02 The demented Pianist
 
-
-
-
 **"We don’t need to wait to take advantage of the Information Theory of Aging."**
 
 A Kindle User:
@@ -44,7 +41,10 @@ A Kindle User:
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
+=======
+>>>>>>> develop
 =======
 >>>>>>> develop
 =======
@@ -164,8 +164,14 @@ A Kindle User:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
+>>>>>>> da15bd2c033a5c98b2007924ed2e8be0b83172c8
+=======
+>>>>>>> da15bd2c033a5c98b2007924ed2e8be0b83172c8
+>>>>>>> develop
+=======
 >>>>>>> da15bd2c033a5c98b2007924ed2e8be0b83172c8
 =======
 >>>>>>> da15bd2c033a5c98b2007924ed2e8be0b83172c8
