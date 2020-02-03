@@ -1,4 +1,4 @@
-﻿## notes on 'LifeSpan'
+## notes on 'LifeSpan'
 
 It’s a seemingly undeniable truth that aging is inevitable. But what if everything we’ve been taught to believe about aging is wrong? What if we could choose our lifespan?
 
@@ -7,6 +7,41 @@ In this groundbreaking book, Dr. David Sinclair, leading world authority on gene
 This eye-opening and provocative work takes us to the frontlines of research that is pushing the boundaries on our perceived scientific limitations, revealing incredible breakthroughs—many from Dr. David Sinclair’s own lab at Harvard—that demonstrate how we can slow down, or even reverse, aging. The key is activating newly discovered vitality genes, the descendants of an ancient genetic survival circuit that is both the cause of aging and the key to reversing it. Recent experiments in genetic reprogramming suggest that in the near future we may not just be able to feel younger, but actually become younger.
 
 ## 02 The demented Pianist
+
+
+
+
+**"We don’t need to wait to take advantage of the Information Theory of Aging."**
+
+A Kindle User:
+
+138
+
+"don’t know everything about why this happens. We don’t know what sorts of molecules will work best for activating sirtuins or in what doses. Hundreds of different NAD precursors have been synthesized, and there are clinical trials in progress to answer that question and more."
+
+A Kindle User:
+
+137
+
+"That was how these old mice suddenly became such mighty marathoners. Because the sirtuins had been activated, the mice’s epigenomes were becoming more stable. The valley walls were growing higher. Gravity was growing stronger. And Waddington’s marbles were being pushed back to where they belonged. The lining of the capillaries was responding as if the mice were exercised. It was an exercise mimetic, the first of its kind, and a sure sign that some aspects of age reversal are possible."
+
+A Kindle User:
+
+136
+
+"A thousand meters is a good, long run for a mouse. Two thousand meters—five times around a standard running track—would be a substantial run for a young mouse. But there’s a reason why the program was set to three kilometers. Mice simply don’t run that far. Yet these elderly mice were running ultramarathons. Why? One of our key findings, in a study we published in 2018,42 was that when treated with an NAD-boosting molecule that activated the SIRT1 enzyme, the elderly mice’s endothelial cells, which line the blood vessels, were pushing their way into areas of the muscle that weren’t getting very much blood flow."
+
+A Kindle User:
+
+135
+
+"“But I tell people to think of exercise as part of personal hygiene, like brushing their teeth. It should be something we do as a matter of course to keep ourselves healthy.”41 I’m sure he’s right. Most people would exercise a lot more if going to the gym were as easy as brushing their teeth. Perhaps one day it will be. Experiments in my lab indicate it is possible. “David, we’ve got a problem,” a postdoctoral researcher named Michael Bonkowski told me one morning in the fall of 2017 when I arrived at the lab."
+
+A Kindle User:
+
+133-134
+
+
 
 "That’s aging. This loss of information is what leads each of us into a world of heart disease, cancer, pain, frailty, and death. If the loss of analog information is the singular reason why we age, is there anything we can do about it? Can we stabilize the marbles, keeping the valley walls high and the gravity strong? Yes. I can say with confidence that there is."
 
@@ -120,6 +155,13 @@ A Kindle User:
 
 114 "“That’s not a sick mouse,” I replied. “That’s an old mouse.”
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> da15bd2c033a5c98b2007924ed2e8be0b83172c8
+=======
+>>>>>>> da15bd2c033a5c98b2007924ed2e8be0b83172c8
+>>>>>>> develop
 
 "The mice might have died. They might have grown tumors. Or they might have been perfectly fine, no worse off than if they’d received a dental X-ray. Nobody had ever done this before in a mouse, so we didn’t know. But if our hypothesis about epigenetic instability and aging was correct, the tamoxifen would work like the potion that Fred and George Weasley used to age themselves in Harry Potter and the Goblet of Fire."
 
