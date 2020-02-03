@@ -8,6 +8,7 @@ This eye-opening and provocative work takes us to the frontlines of research tha
 
 ## 02 The demented Pianist
 
+
 **"We don’t need to wait to take advantage of the Information Theory of Aging."**
 
 A Kindle User:
@@ -37,6 +38,120 @@ A Kindle User:
 A Kindle User:
 
 133-134
+
+"That’s aging. This loss of information is what leads each of us into a world of heart disease, cancer, pain, frailty, and death. If the loss of analog information is the singular reason why we age, is there anything we can do about it? Can we stabilize the marbles, keeping the valley walls high and the gravity strong? Yes. I can say with confidence that there is."
+
+A Kindle User:
+
+132
+
+"the survival circuit. The repeated shuffling of sirtuins and other epigenetic factors away from genes to sites of broken DNA, then back again, while helpful in the short term, is ultimately what causes us to age. Over time, the wrong genes come on at the wrong time and in the wrong place."
+
+A Kindle User:
+
+131-132
+
+"If the epigenome had evolved to be digital rather than analog, the valley walls would be the equivalent of 100 miles high and vertical, and gravity would be superstrong, so the marbles could never jump over into a new valley. Cells would never lose their identity. If we were built this way, we could be healthy for thousands of years, perhaps longer."
+
+A Kindle User:
+
+130
+
+"the cell’s “fate.” We used to think this was a one-way street, an irreversible path. But in biology there is no such thing as fate. In the last decade, we’ve learned that the marbles in the Waddington landscape aren’t fixed; they have a terrible tendency to move around over time."
+
+A Kindle User:
+
+129
+
+"On the Waddington map, an embryonic stem cell is represented by a marble at the top of a mountain peak. During embryonic development, the marble rolls down the hill and comes to rest in one of hundreds of different valleys, each representing a different possible cell type in the body. This is called “differentiation.” The epigenome guides the marbles, but it also acts as gravity after the cells come to rest, ensuring that they don’t move back up the slope or hop over into another valley."
+
+A Kindle User:
+
+128
+
+"Waddington’s ponderings came in the dawning years of the digital revolution, at the same time that Grace Hopper, the mother of computer programming, was laying the foundation for the first widely used computer language, COBOL. In essence, what Waddington was seeking to ascertain was how cells, all running on the same code, could possibly produce different programs."
+
+A Kindle User:
+
+127
+
+
+ "40 For example, having a C instead of a T variant at position rs2764264 is associated with longer life. Two of our children, Alex and Natalie, inherited two Cs at this position, one from Sandra and one from me, so all other genes being equal, and as long as they don’t live terribly negative lifestyles, they should have greater odds of reaching age 95 than I do, with my one C and one T, and substantially greater than someone with two Ts. It’s worth pausing to consider how remarkable it is that we find essentially the same longevity genes in every organism on the planet: trees, yeast, worms, whales, and humans. All living creatures come from the same place in primordium that we do. When we look through a microscope, we’re all made of the same stuff. We all share the survival circuit, a protective cellular network that helps us when times are tough. This same network is our downfall. Severe types of damage, such as broken strands of DNA, cannot be avoided. They overwork the survival circuit and change cellular identity. We’re all subject to epigenetic noise that should, under the Information Theory of Aging, cause aging. Yet different organisms age at very different rates. And sometimes, it appears, they do not age at all. What allows a whale to keep the survival circuit on without disrupting the epigenetic symphony? If the piano player’s skills are lost, how is it possible for a jellyfish to restore her ability? These are the questions that have been guiding my thoughts as I have considered where our research is headed."
+
+A Kindle User:
+
+126
+
+ "Turns out, worms become dauer when they are starved or crowded, hunkering down until times improve. Mutations that activate DAF-16 extend lifespan by turning on the worm defense program even when times are good."
+
+A Kindle User:
+
+125
+
+ "Back in 2007, aboriginal hunters in Alaska caught a bowhead whale that, when butchered, was found to have the head of an old harpoon embedded in its blubber. The weapon, historians would later determine, had been manufactured in the late 1800s, and they estimated the whale’s age at about 130. That discovery sparked a new scientific interest in Balaena mysticetus, and later research, employing an age-determining method that measures the levels of aspartic acid in the lens of a whale’s eye, estimated that one bowhead was 211 years old when it was killed by native whalers."
+
+A Kindle User:
+
+124
+
+
+ "Somniosus microcephalus is still an impressive animal and far more closely related to us. About the size of a great white, it does not even reach sexual maturity until it is 150 years old. Researchers believe the Arctic Ocean could be home to Greenland sharks that were born before Columbus got lost in the New World. Radiocarbon dating estimated that one very large individual may have lived more than 510 years, at least up until it was caught by scientists so they could measure its age. Whether this shark’s cells undergo aging is an open scientific question; very few biologists had so much as looked at S. microcephalus until the past few years. At the very least, this longest-living vertebrate undergoes the process of aging very, very slowly."
+
+A Kindle User:
+
+123
+
+ "Bristlecones are outliers in the biological world, but they are not unique in their defiance of aging. The freshwater polyp known as Hydra vulgaris has also evolved to defy senescence. Under the right conditions, these tiny cnidarians have demonstrated a remarkable refusal to age. In the wild they might live for only a few months, subject to the powers of predation, disease, and desiccation. But in labs around the world they have been kept alive for upward of 40 years—with no signs that they’ll stop there—and indicators of health don’t differ significantly between the very young and the very old. A couple of species of jellyfish can completely regenerate from adult body parts, earning them the nickname “immortal jellies.”"
+
+A Kindle User:
+
+122
+
+"Yet even over the course of many thousands of years, their cells do not appear to have undergone any decline in function. Scientists call this “negligible senescence.” Indeed, when a team from the Institute of Forest Genetics went looking for signs of cellular aging—studying bristlecones from 23 to 4,713 years old—they came up empty-handed. Between young and old trees, their 2001 study found, there were no meaningful differences in the chemical transportation systems, in the rate of shoot growth, in the quality of the pollen they produced, in the size of their seeds, or in the way those seeds germinated.33 The researchers also looked for deleterious mutations—the sorts of which many scientists at the time expected to be a primary cause of aging."
+
+A Kindle User:
+
+121
+
+"Bristlecones are, after all, our eukaryotic cousins. About half of their genes are close relatives of ours."
+
+A Kindle User:
+
+120
+
+"California’s White Mountains strike haunting silhouettes against the dewy morning sun. The oldest of these trees have been here since before the pyramids of Egypt were built, before the construction of Stonehenge, and before the last of the woolly mammoths left our world. They have shared this planet with Moses, Jesus, Muhammad, and the first Buddha. Standing some two miles above sea level, adding fractions of a millimeter of growth to their twisted trunks each year, defying lightning storms and periodic droughts, they are the epitome of perseverance."
+
+A Kindle User:
+
+119
+
+**"We hadn’t touched their telomeres. We hadn’t messed with their mitochondria. We hadn’t directly exhausted their stem cells. Yet the ICE mice were suffering from a loss of body mass, mitochondria, and muscle strength and an increase in cataracts, arthritis, dementia, bone loss, and frailty."
+
+A Kindle User:
+
+important 118**
+
+"In another manner of thinking, we’d scratched up the DVD of life about 50 percent faster than it normally gets scratched. The digital code that is, and was, the basic blueprint for our mice was the same as it had always been. But the analog machine built to read that code was able to pick up only bits and pieces of the data."
+
+A Kindle User:
+
+117
+
+"Steve’s name stuck, and today he’s the namesake of the Horvath Clock—an accurate way of estimating someone’s biological age by measuring thousands of epigenetic marks on the DNA, called methylation. We tend to think of aging as something that begins happening to us at midlife, because that’s when we start to see significant changes to our bodies. But Horvath’s clock begins ticking the moment we are born. Mice have an epigenetic clock, too. Were the ICE mice older than their siblings? Yes, they were—about 50 percent older."
+
+A Kindle User:
+
+116
+
+"A tamoxifen-triggered ICE mouse at the same age has thinning, graying hair, a bent spine, paper-thin ears, and cloudy eyes. Remember, we’d done nothing to change the genome. We’d simply broken the mice’s DNA in places where there aren’t any genes and forced the cell to paste, or “ligate,” them back together. Just to make sure, later we broke the DNA in other places, too, with the same results. Those breaks had induced a sirtuin response."
+
+A Kindle User:
+
+115
+
+114 "“That’s not a sick mouse,” I replied. “That’s an old mouse.”
+
+>>>>>>> da15bd2c033a5c98b2007924ed2e8be0b83172c8
 
 "The mice might have died. They might have grown tumors. Or they might have been perfectly fine, no worse off than if they’d received a dental X-ray. Nobody had ever done this before in a mouse, so we didn’t know. But if our hypothesis about epigenetic instability and aging was correct, the tamoxifen would work like the potion that Fred and George Weasley used to age themselves in Harry Potter and the Goblet of Fire."
 
