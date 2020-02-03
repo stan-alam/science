@@ -11,6 +11,8 @@ This eye-opening and provocative work takes us to the frontlines of research tha
 
 
 
+
+
 **"We don’t need to wait to take advantage of the Information Theory of Aging."**
 
 A Kindle User:
@@ -42,7 +44,10 @@ A Kindle User:
 133-134
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> develop
 "That’s aging. This loss of information is what leads each of us into a world of heart disease, cancer, pain, frailty, and death. If the loss of analog information is the singular reason why we age, is there anything we can do about it? Can we stabilize the marbles, keeping the valley walls high and the gravity strong? Yes. I can say with confidence that there is."
 
 A Kindle User:
@@ -156,8 +161,14 @@ A Kindle User:
 114 "“That’s not a sick mouse,” I replied. “That’s an old mouse.”
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
+>>>>>>> da15bd2c033a5c98b2007924ed2e8be0b83172c8
+=======
+>>>>>>> da15bd2c033a5c98b2007924ed2e8be0b83172c8
+>>>>>>> develop
+=======
 >>>>>>> da15bd2c033a5c98b2007924ed2e8be0b83172c8
 =======
 >>>>>>> da15bd2c033a5c98b2007924ed2e8be0b83172c8
