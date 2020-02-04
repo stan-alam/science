@@ -153,11 +153,6 @@ A Kindle User:
 
 114 "“That’s not a sick mouse,” I replied. “That’s an old mouse.”
 
-<<<<<<< HEAD
->>>>>>> da15bd2c033a5c98b2007924ed2e8be0b83172c8
-=======
->>>>>>> da15bd2c033a5c98b2007924ed2e8be0b83172c8
-
 "The mice might have died. They might have grown tumors. Or they might have been perfectly fine, no worse off than if they’d received a dental X-ray. Nobody had ever done this before in a mouse, so we didn’t know. But if our hypothesis about epigenetic instability and aging was correct, the tamoxifen would work like the potion that Fred and George Weasley used to age themselves in Harry Potter and the Goblet of Fire."
 
 A Kindle User:
