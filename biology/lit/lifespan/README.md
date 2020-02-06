@@ -8,7 +8,30 @@ This eye-opening and provocative work takes us to the frontlines of research tha
 
 ## 02 The demented Pianist
 
+"The first part of the law says that there is an internal clock that ticks away at random, like the chance a glass at a restaurant will break; essentially a first-order rate reaction, similar to radioactive decay, with some glasses lasting far longer than most. The second part says that, as time passes, due to an unknown runaway process, humans experience an exponential increase in their probability of death. By adding these two components together, Gompertz could accurately predict deaths due to aging: the number of people alive after 50 drops precipitously, but there is a tail at the end where some “lucky” people remain alive beyond what you’d expect. His equations made his relatives, Sir Moses Montefiore and Nathan Mayer Rothschild, owners of the Alliance Insurance Company, a lot of money. What Gompertz could not have known, but would have appreciated, is that most organisms obey his law: flies, roundworms, mice, even yeast cells. For larger organisms, we don’t know exactly what the two clocks are, but we do know in yeast cells: the chance clock is the formation of an rDNA circle, and the exponential clock is the replication and exponential increase in the numbers of rDNA circles, with the resulting movement of Sir2 away from the silent mating-type genes that causes sterility.8 Humans are more complicated, but in the nineteenth century, British mortality rates were becoming amenable to simple mathematical modeling because they were increasingly avoiding not-from-aging deaths: childbirth, accidents, and infections. This increasingly revealed the underlying and exponential incidence of death due to internal clocks as being the same as it ever was. During those times, the probability of dying doubled every eight years, an equation that left very little room for survivors after the age of 100."
 
+A Kindle User:
+
+142
+
+
+"Alzheimer’s, and other conditions we commonly associate with getting old are not necessarily diseases themselves but symptoms of something greater. Or, put more simply and perhaps even more seditiously: aging itself is a disease."
+
+A Kindle User:
+
+Important 141
+
+"Molecular biologist María Blasco explained how old mammalian cells are more likely than young cells to lose their identity and become cancerous. And geneticist Nir Barzilai spoke of genetic variants in long-lived humans and his belief that all aging-related diseases can be substantially prevented and human lives can be considerably extended with one relatively easy pharmaceutical intervention."
+
+A Kindle User:
+
+140
+
+**"There are things we can do to slow, stop, and even reverse aspects of aging."**
+
+A Kindle User:
+
+Important 139
 
 **"We don’t need to wait to take advantage of the Information Theory of Aging."**
 
