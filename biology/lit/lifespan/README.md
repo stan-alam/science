@@ -8,6 +8,47 @@ This eye-opening and provocative work takes us to the frontlines of research tha
 
 ## 02 The demented Pianist
 
+"highest levels of these or most other professional sports much past their mid-40s. Even someone as resilient as Navratilova peaked when she was in her early 20s through her early 30s. There are some simple tests to determine how biologically old you probably are. The number of push-ups you can do is a good indicator. If you are over 45 and can do more than twenty, you are doing well. The other test of age is the sitting-rising test (SRT). Sit on the floor, barefooted, with legs crossed. Lean forward quickly and see if you can get up in one move. A young person can. A middle-aged person typically needs to push off with one of their hands. An elderly person often needs to get onto one knee. A study of people 51 to 80 years found that 157 out of 159 people who passed away in 75 months had received less than perfect SRT scores. Physical changes happen to everyone. Our skin wrinkles. Our hair grays. Our joints ache. We start groaning when we get up. We begin to lose resilience, not just to diseases but to all of life’s bumps and bruises. Fortunately, a hip fracture for a teenager is a very rare event that nearly everyone is expected to bounce back from."
+
+A Kindle User:
+
+149
+
+
+"but physical fitness, in general, begins to decline in our 20s and 30s. Men who run middle-distance races, for instance, are fastest around the age of 25, no matter how hard they train after that. The best female marathoners can stay competitive well into their late 20s and early 30s, but their times begin to rise quickly after 40. Occasionally, exceptionally fit outliers—such as National Football League quarterback Tom Brady, National Women’s Soccer League defender Christie Pearce, Major League Baseball outfielder Ichiro Suzuki, and tennis legend Martina Navratilova—demonstrate that professional athletes can stay competitive into their 40s, but almost no one remains at the"
+
+A Kindle User:
+
+147-148
+
+
+"“Imagine wearing it for a decade,” I say. To put yourself into an aged mind-set, try this little experiment. Using your nondominant hand, write your name, address, and phone number while circling your opposite foot counterclockwise. That’s a rough approximation of what it feels like."
+
+A Kindle User:
+
+147
+
+
+"One of the best ways to predict whether someone will survive a disease, after all, is to take a look at how old he or she is when diagnosed—and my mother was, relatively speaking, very young. This is key. We know that smoking accelerates the aging clock and makes you more likely to die than a nonsmoker—15 years earlier, on average. So, we have fought it with public health campaigns, class action lawsuits, taxes on tobacco products, and legislation. We know that cancer makes you more likely to die, and we’ve fought it with billions of dollars’ worth of research aimed at ending it once and for all."
+
+A Kindle User:
+
+146
+
+
+"In another way of thinking, though, my mother was very lucky—she had the come-to-God moment that many smokers need to go to battle with the tremendously powerful forces of addiction in time to save herself, and she spent another two decades on this planet. She traveled the world, visiting eighteen different countries. She met her grandchildren."
+
+A Kindle User:
+
+145
+
+"When the cancer finally arrived about a decade later, I wasn’t angry. Tragedy has a way of vanquishing anger. I drove to the hospital, determined to solve any problem. My mother was responsible for her own actions, but she was also a victim of an unscrupulous industry. Tobacco alone doesn’t kill people; it’s the combination of tobacco, genetics, and time that most often leads to death. She was diagnosed with cancer at the age of 50. That’s twenty-one years earlier than the first diagnosis in the average lung cancer patient. It’s also how old I am now."
+
+A Kindle User:
+
+144
+
+
 "The first part of the law says that there is an internal clock that ticks away at random, like the chance a glass at a restaurant will break; essentially a first-order rate reaction, similar to radioactive decay, with some glasses lasting far longer than most. The second part says that, as time passes, due to an unknown runaway process, humans experience an exponential increase in their probability of death. By adding these two components together, Gompertz could accurately predict deaths due to aging: the number of people alive after 50 drops precipitously, but there is a tail at the end where some “lucky” people remain alive beyond what you’d expect. His equations made his relatives, Sir Moses Montefiore and Nathan Mayer Rothschild, owners of the Alliance Insurance Company, a lot of money. What Gompertz could not have known, but would have appreciated, is that most organisms obey his law: flies, roundworms, mice, even yeast cells. For larger organisms, we don’t know exactly what the two clocks are, but we do know in yeast cells: the chance clock is the formation of an rDNA circle, and the exponential clock is the replication and exponential increase in the numbers of rDNA circles, with the resulting movement of Sir2 away from the silent mating-type genes that causes sterility.8 Humans are more complicated, but in the nineteenth century, British mortality rates were becoming amenable to simple mathematical modeling because they were increasingly avoiding not-from-aging deaths: childbirth, accidents, and infections. This increasingly revealed the underlying and exponential incidence of death due to internal clocks as being the same as it ever was. During those times, the probability of dying doubled every eight years, an equation that left very little room for survivors after the age of 100."
 
 A Kindle User:
