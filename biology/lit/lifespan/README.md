@@ -8,6 +8,30 @@ This eye-opening and provocative work takes us to the frontlines of research tha
 
 ## 02 The demented Pianist
 
+"Because the stakes are so exceptionally high for the individual patients being treated in these places, a lot of people don’t recognize that a battle won on any of these individual fronts won’t make much of a difference against the Law of Human Mortality. Surviving cancer or heart disease doesn’t substantially increase the average human lifespan, it just decreases the odds of dying of cancer or heart disease."
+
+A Kindle User:
+
+153
+
+"Sure, there are geriatricians, but they almost always take care of the already sick, thirty years too late. They treat the aged—not the aging. No wonder so few doctors today are choosing to specialize in this area of medicine. There’s a reason why hospitals and research institutions are organized in this way. Most of our modern medical culture has been built to address medical problems one by one—a segregation that owes itself in no small part to our obsession with classifying the specific pathologies leading to death."
+
+A Kindle User:
+
+152
+
+"This is the very definition of frailty. If hepatitis, kidney disease, or melanoma did the sorts of things to us that aging does, we would put those diseases on a list of the deadliest illnesses in the world. Instead, scientists call what happens to us a “loss of resilience,” and we generally have accepted it as part of the human condition."
+
+A Kindle User:
+
+151
+
+"Wounds also heal much more slowly with age—a phenomenon first scientifically studied during World War I by the French biophysicist Pierre Lecomte du Noüy, who noted a difference in the rate of healing between younger and older wounded soldiers. We can see this in even starker relief when we look at the differences in the ways children and the elderly heal from wounds. When a child gets a cut on her foot, a noninfected wound will heal quite quickly. The only medicine most kids need when they get hurt like this is a kiss, a Band-Aid, and some assurance that everything will be okay. For an elderly person, a foot injury is not just painful but dangerous. For older diabetics, in particular, a small wound can be deadly: The five-year mortality rate for a foot ulcer in a diabetic is greater than 50 percent. That’s higher than the death rates for many kinds of cancer.13"
+
+A Kindle User:
+
+150
+
 "highest levels of these or most other professional sports much past their mid-40s. Even someone as resilient as Navratilova peaked when she was in her early 20s through her early 30s. There are some simple tests to determine how biologically old you probably are. The number of push-ups you can do is a good indicator. If you are over 45 and can do more than twenty, you are doing well. The other test of age is the sitting-rising test (SRT). Sit on the floor, barefooted, with legs crossed. Lean forward quickly and see if you can get up in one move. A young person can. A middle-aged person typically needs to push off with one of their hands. An elderly person often needs to get onto one knee. A study of people 51 to 80 years found that 157 out of 159 people who passed away in 75 months had received less than perfect SRT scores. Physical changes happen to everyone. Our skin wrinkles. Our hair grays. Our joints ache. We start groaning when we get up. We begin to lose resilience, not just to diseases but to all of life’s bumps and bruises. Fortunately, a hip fracture for a teenager is a very rare event that nearly everyone is expected to bounce back from."
 
 A Kindle User:
