@@ -8,6 +8,36 @@ This eye-opening and provocative work takes us to the frontlines of research tha
 
 ## 02 The demented Pianist
 
+"To me, that in itself is an indictment of the US system; like other advanced countries, we should be making tremendous progress toward reducing the DALY and other measures of morbidity, yet, at best, it seems we’re treading water. We need a new approach."
+
+A Kindle User:
+
+158
+
+"So prevalent is the combined problem of early mortality and morbidity that there is a statistic for it: the disability-adjusted life year, or DALY, which measures the years of life lost from both premature death and poor state of health. The Russian DALY is the highest in Europe, with twenty-five lost years of healthy life per person. In Israel, it is an impressive ten years. In the United States, the number is a dismal twenty-three."
+
+A Kindle User:
+
+157
+
+"Thanks to statins, triple-bypass surgeries, defibrillators, transplants, and other medical interventions, our hearts are staying alive longer than ever. But we haven’t been nearly so attentive to our other organs, including the most important one of all: our brains. The result is that more of us are spending more years suffering from brain-related maladies, such as dementia."
+
+A Kindle User:
+
+156
+
+"of falling again just keep getting higher. Take away one hurdle, and the path forward is really no less precarious. That’s why the current solutions, which are focused on curing individual diseases, are both very expensive and very ineffective when it comes to making big advances in prolonging our healthspans. What we need are medicines that knock down all the hurdles."
+
+A Kindle User:
+
+155
+
+**"“As soon as a disease appears, attack that disease as if nothing else is present; beat the disease down, and once you succeed, push the patient out the door until he or she faces the next challenge; then beat that one down. Repeat until failure.”14 The United States spends hundreds of billions of dollars each year fighting cardiovascular disease.15 But if we could stop all cardiovascular disease—every single case, all at once—we wouldn’t add many years to the average lifespan; the gain would be just 1.5 years. The same is true for cancer; stopping all forms of that scourge would give us just 2.1 more years of life on average, because all other causes of death still increase exponentially. We’re still aging, after all."
+
+A Kindle User:
+
+Important 154**
+
 "Because the stakes are so exceptionally high for the individual patients being treated in these places, a lot of people don’t recognize that a battle won on any of these individual fronts won’t make much of a difference against the Law of Human Mortality. Surviving cancer or heart disease doesn’t substantially increase the average human lifespan, it just decreases the odds of dying of cancer or heart disease."
 
 A Kindle User:
