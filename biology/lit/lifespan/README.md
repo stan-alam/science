@@ -1,4 +1,4 @@
-﻿## notes on 'LifeSpan'
+## notes on 'LifeSpan'
 
 It’s a seemingly undeniable truth that aging is inevitable. But what if everything we’ve been taught to believe about aging is wrong? What if we could choose our lifespan?
 
@@ -7,6 +7,157 @@ In this groundbreaking book, Dr. David Sinclair, leading world authority on gene
 This eye-opening and provocative work takes us to the frontlines of research that is pushing the boundaries on our perceived scientific limitations, revealing incredible breakthroughs—many from Dr. David Sinclair’s own lab at Harvard—that demonstrate how we can slow down, or even reverse, aging. The key is activating newly discovered vitality genes, the descendants of an ancient genetic survival circuit that is both the cause of aging and the key to reversing it. Recent experiments in genetic reprogramming suggest that in the near future we may not just be able to feel younger, but actually become younger.
 
 ## 02 The demented Pianist
+
+"To me, that in itself is an indictment of the US system; like other advanced countries, we should be making tremendous progress toward reducing the DALY and other measures of morbidity, yet, at best, it seems we’re treading water. We need a new approach."
+
+A Kindle User:
+
+158
+
+"So prevalent is the combined problem of early mortality and morbidity that there is a statistic for it: the disability-adjusted life year, or DALY, which measures the years of life lost from both premature death and poor state of health. The Russian DALY is the highest in Europe, with twenty-five lost years of healthy life per person. In Israel, it is an impressive ten years. In the United States, the number is a dismal twenty-three."
+
+A Kindle User:
+
+157
+
+"Thanks to statins, triple-bypass surgeries, defibrillators, transplants, and other medical interventions, our hearts are staying alive longer than ever. But we haven’t been nearly so attentive to our other organs, including the most important one of all: our brains. The result is that more of us are spending more years suffering from brain-related maladies, such as dementia."
+
+A Kindle User:
+
+156
+
+"of falling again just keep getting higher. Take away one hurdle, and the path forward is really no less precarious. That’s why the current solutions, which are focused on curing individual diseases, are both very expensive and very ineffective when it comes to making big advances in prolonging our healthspans. What we need are medicines that knock down all the hurdles."
+
+A Kindle User:
+
+155
+
+**"“As soon as a disease appears, attack that disease as if nothing else is present; beat the disease down, and once you succeed, push the patient out the door until he or she faces the next challenge; then beat that one down. Repeat until failure.”14 The United States spends hundreds of billions of dollars each year fighting cardiovascular disease.15 But if we could stop all cardiovascular disease—every single case, all at once—we wouldn’t add many years to the average lifespan; the gain would be just 1.5 years. The same is true for cancer; stopping all forms of that scourge would give us just 2.1 more years of life on average, because all other causes of death still increase exponentially. We’re still aging, after all."
+
+A Kindle User:
+
+Important 154**
+
+"Because the stakes are so exceptionally high for the individual patients being treated in these places, a lot of people don’t recognize that a battle won on any of these individual fronts won’t make much of a difference against the Law of Human Mortality. Surviving cancer or heart disease doesn’t substantially increase the average human lifespan, it just decreases the odds of dying of cancer or heart disease."
+
+A Kindle User:
+
+153
+
+"Sure, there are geriatricians, but they almost always take care of the already sick, thirty years too late. They treat the aged—not the aging. No wonder so few doctors today are choosing to specialize in this area of medicine. There’s a reason why hospitals and research institutions are organized in this way. Most of our modern medical culture has been built to address medical problems one by one—a segregation that owes itself in no small part to our obsession with classifying the specific pathologies leading to death."
+
+A Kindle User:
+
+152
+
+"This is the very definition of frailty. If hepatitis, kidney disease, or melanoma did the sorts of things to us that aging does, we would put those diseases on a list of the deadliest illnesses in the world. Instead, scientists call what happens to us a “loss of resilience,” and we generally have accepted it as part of the human condition."
+
+A Kindle User:
+
+151
+
+"Wounds also heal much more slowly with age—a phenomenon first scientifically studied during World War I by the French biophysicist Pierre Lecomte du Noüy, who noted a difference in the rate of healing between younger and older wounded soldiers. We can see this in even starker relief when we look at the differences in the ways children and the elderly heal from wounds. When a child gets a cut on her foot, a noninfected wound will heal quite quickly. The only medicine most kids need when they get hurt like this is a kiss, a Band-Aid, and some assurance that everything will be okay. For an elderly person, a foot injury is not just painful but dangerous. For older diabetics, in particular, a small wound can be deadly: The five-year mortality rate for a foot ulcer in a diabetic is greater than 50 percent. That’s higher than the death rates for many kinds of cancer.13"
+
+A Kindle User:
+
+150
+
+"highest levels of these or most other professional sports much past their mid-40s. Even someone as resilient as Navratilova peaked when she was in her early 20s through her early 30s. There are some simple tests to determine how biologically old you probably are. The number of push-ups you can do is a good indicator. If you are over 45 and can do more than twenty, you are doing well. The other test of age is the sitting-rising test (SRT). Sit on the floor, barefooted, with legs crossed. Lean forward quickly and see if you can get up in one move. A young person can. A middle-aged person typically needs to push off with one of their hands. An elderly person often needs to get onto one knee. A study of people 51 to 80 years found that 157 out of 159 people who passed away in 75 months had received less than perfect SRT scores. Physical changes happen to everyone. Our skin wrinkles. Our hair grays. Our joints ache. We start groaning when we get up. We begin to lose resilience, not just to diseases but to all of life’s bumps and bruises. Fortunately, a hip fracture for a teenager is a very rare event that nearly everyone is expected to bounce back from."
+
+A Kindle User:
+
+149
+
+
+"but physical fitness, in general, begins to decline in our 20s and 30s. Men who run middle-distance races, for instance, are fastest around the age of 25, no matter how hard they train after that. The best female marathoners can stay competitive well into their late 20s and early 30s, but their times begin to rise quickly after 40. Occasionally, exceptionally fit outliers—such as National Football League quarterback Tom Brady, National Women’s Soccer League defender Christie Pearce, Major League Baseball outfielder Ichiro Suzuki, and tennis legend Martina Navratilova—demonstrate that professional athletes can stay competitive into their 40s, but almost no one remains at the"
+
+A Kindle User:
+
+147-148
+
+
+"“Imagine wearing it for a decade,” I say. To put yourself into an aged mind-set, try this little experiment. Using your nondominant hand, write your name, address, and phone number while circling your opposite foot counterclockwise. That’s a rough approximation of what it feels like."
+
+A Kindle User:
+
+147
+
+
+"One of the best ways to predict whether someone will survive a disease, after all, is to take a look at how old he or she is when diagnosed—and my mother was, relatively speaking, very young. This is key. We know that smoking accelerates the aging clock and makes you more likely to die than a nonsmoker—15 years earlier, on average. So, we have fought it with public health campaigns, class action lawsuits, taxes on tobacco products, and legislation. We know that cancer makes you more likely to die, and we’ve fought it with billions of dollars’ worth of research aimed at ending it once and for all."
+
+A Kindle User:
+
+146
+
+
+"In another way of thinking, though, my mother was very lucky—she had the come-to-God moment that many smokers need to go to battle with the tremendously powerful forces of addiction in time to save herself, and she spent another two decades on this planet. She traveled the world, visiting eighteen different countries. She met her grandchildren."
+
+A Kindle User:
+
+145
+
+"When the cancer finally arrived about a decade later, I wasn’t angry. Tragedy has a way of vanquishing anger. I drove to the hospital, determined to solve any problem. My mother was responsible for her own actions, but she was also a victim of an unscrupulous industry. Tobacco alone doesn’t kill people; it’s the combination of tobacco, genetics, and time that most often leads to death. She was diagnosed with cancer at the age of 50. That’s twenty-one years earlier than the first diagnosis in the average lung cancer patient. It’s also how old I am now."
+
+A Kindle User:
+
+144
+
+
+"The first part of the law says that there is an internal clock that ticks away at random, like the chance a glass at a restaurant will break; essentially a first-order rate reaction, similar to radioactive decay, with some glasses lasting far longer than most. The second part says that, as time passes, due to an unknown runaway process, humans experience an exponential increase in their probability of death. By adding these two components together, Gompertz could accurately predict deaths due to aging: the number of people alive after 50 drops precipitously, but there is a tail at the end where some “lucky” people remain alive beyond what you’d expect. His equations made his relatives, Sir Moses Montefiore and Nathan Mayer Rothschild, owners of the Alliance Insurance Company, a lot of money. What Gompertz could not have known, but would have appreciated, is that most organisms obey his law: flies, roundworms, mice, even yeast cells. For larger organisms, we don’t know exactly what the two clocks are, but we do know in yeast cells: the chance clock is the formation of an rDNA circle, and the exponential clock is the replication and exponential increase in the numbers of rDNA circles, with the resulting movement of Sir2 away from the silent mating-type genes that causes sterility.8 Humans are more complicated, but in the nineteenth century, British mortality rates were becoming amenable to simple mathematical modeling because they were increasingly avoiding not-from-aging deaths: childbirth, accidents, and infections. This increasingly revealed the underlying and exponential incidence of death due to internal clocks as being the same as it ever was. During those times, the probability of dying doubled every eight years, an equation that left very little room for survivors after the age of 100."
+
+A Kindle User:
+
+142
+
+
+"Alzheimer’s, and other conditions we commonly associate with getting old are not necessarily diseases themselves but symptoms of something greater. Or, put more simply and perhaps even more seditiously: aging itself is a disease."
+
+A Kindle User:
+
+Important 141
+
+"Molecular biologist María Blasco explained how old mammalian cells are more likely than young cells to lose their identity and become cancerous. And geneticist Nir Barzilai spoke of genetic variants in long-lived humans and his belief that all aging-related diseases can be substantially prevented and human lives can be considerably extended with one relatively easy pharmaceutical intervention."
+
+A Kindle User:
+
+140
+
+**"There are things we can do to slow, stop, and even reverse aspects of aging."**
+
+A Kindle User:
+
+Important 139
+
+**"We don’t need to wait to take advantage of the Information Theory of Aging."**
+
+A Kindle User:
+
+138
+
+"don’t know everything about why this happens. We don’t know what sorts of molecules will work best for activating sirtuins or in what doses. Hundreds of different NAD precursors have been synthesized, and there are clinical trials in progress to answer that question and more."
+
+A Kindle User:
+
+137
+
+"That was how these old mice suddenly became such mighty marathoners. Because the sirtuins had been activated, the mice’s epigenomes were becoming more stable. The valley walls were growing higher. Gravity was growing stronger. And Waddington’s marbles were being pushed back to where they belonged. The lining of the capillaries was responding as if the mice were exercised. It was an exercise mimetic, the first of its kind, and a sure sign that some aspects of age reversal are possible."
+
+A Kindle User:
+
+136
+
+"A thousand meters is a good, long run for a mouse. Two thousand meters—five times around a standard running track—would be a substantial run for a young mouse. But there’s a reason why the program was set to three kilometers. Mice simply don’t run that far. Yet these elderly mice were running ultramarathons. Why? One of our key findings, in a study we published in 2018,42 was that when treated with an NAD-boosting molecule that activated the SIRT1 enzyme, the elderly mice’s endothelial cells, which line the blood vessels, were pushing their way into areas of the muscle that weren’t getting very much blood flow."
+
+A Kindle User:
+
+135
+
+"“But I tell people to think of exercise as part of personal hygiene, like brushing their teeth. It should be something we do as a matter of course to keep ourselves healthy.”41 I’m sure he’s right. Most people would exercise a lot more if going to the gym were as easy as brushing their teeth. Perhaps one day it will be. Experiments in my lab indicate it is possible. “David, we’ve got a problem,” a postdoctoral researcher named Michael Bonkowski told me one morning in the fall of 2017 when I arrived at the lab."
+
+A Kindle User:
+
+133-134
+
 
 "That’s aging. This loss of information is what leads each of us into a world of heart disease, cancer, pain, frailty, and death. If the loss of analog information is the singular reason why we age, is there anything we can do about it? Can we stabilize the marbles, keeping the valley walls high and the gravity strong? Yes. I can say with confidence that there is."
 
@@ -119,7 +270,6 @@ A Kindle User:
 115
 
 114 "“That’s not a sick mouse,” I replied. “That’s an old mouse.”
-
 
 "The mice might have died. They might have grown tumors. Or they might have been perfectly fine, no worse off than if they’d received a dental X-ray. Nobody had ever done this before in a mouse, so we didn’t know. But if our hypothesis about epigenetic instability and aging was correct, the tamoxifen would work like the potion that Fred and George Weasley used to age themselves in Harry Potter and the Goblet of Fire."
 
