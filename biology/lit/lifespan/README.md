@@ -8,6 +8,31 @@ This eye-opening and provocative work takes us to the frontlines of research tha
 
 ## 02 The demented Pianist
 
+"resources to help its citizens combat aging. In a world in which we seem to agree on very little, the feeling that “it’s just the way it goes” is almost universal."
+
+A Kindle User:
+
+162
+
+But consider this: though smoking increases the risk of getting cancer fivefold, being 50 years old increases your cancer risk a hundredfold. By the age of 70, it is a thousandfold.21"
+
+A Kindle User:
+
+161
+
+"The final years of my mother’s life serve as a good example. Like almost everyone else, I recognized that smoking would increase my mother’s chances of getting lung cancer. I also knew why: cigarette smoke contains a chemical called benzo(a)pyrene, which binds to guanine in DNA, induces double-strand breaks, and causes mutations. The repair process also causes epigenetic drift and metabolic changes that cancer cells thrive on, in a process we’ve called geroncogenesis.19 The combination of genetic and epigenetic changes induced by years of exposure to cigarette smoke increases the chances of developing lung cancer about fivefold."
+
+A Kindle User:
+
+160
+
+
+"One study found that 85-year-old men are diagnosed with an average of four different diseases, with women of that age suffering from five. Heart disease and cancer. Arthritis and Alzheimer’s. Kidney disease and diabetes. Most patients have several additional undiagnosed diseases, including hypertension, ischemic heart disease, atrial fibrillation, and dementia.18 Yes, these are different ailments with different pathologies, studied in different buildings at the National Institutes of Health and in different departments within universities."
+
+A Kindle User:
+
+159
+
 "To me, that in itself is an indictment of the US system; like other advanced countries, we should be making tremendous progress toward reducing the DALY and other measures of morbidity, yet, at best, it seems we’re treading water. We need a new approach."
 
 A Kindle User:
