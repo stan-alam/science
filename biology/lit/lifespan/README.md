@@ -8,6 +8,42 @@ This eye-opening and provocative work takes us to the frontlines of research tha
 
 ## 02 The demented Pianist
 
+"can do to alleviate suffering we should do. But we’re still building nine dams on nine tributaries. In coming together to tackle the “new science of aging,” as the attendees of the Royal Society meeting termed this fight in their 2010 meeting, increasing numbers of scientists are starting to acknowledge the possibility and potential inherent in heading upstream."
+
+A Kindle User:
+
+168
+
+"Information Theory of Aging"
+
+A Kindle User:
+
+166-167
+
+"Of course not. When we stay healthy and vibrant, as long as we feel young physically and mentally, our age doesn’t matter. That’s true whether you are 32, 52, or 92. Most middle-aged and older adults in the United States report feeling ten to twenty years younger than their age, because they still feel healthy. And feeling younger than your age predicts lower mortality and better cognitive abilities later in life.22 It’s a virtuous cycle, as long as you keep pedaling. But no matter how you feel at this moment in your life, even with a positive outlook and a healthy lifestyle, you have a disease. And it’s going to catch up to you, sooner rather than later, unless something is done."
+
+A Kindle User:
+
+166
+
+"condition that causes people to look and feel as though they are 80 when they are in their 40s. That’s Werner syndrome, the disease I was studying when I first arrived at MIT in the 1990s. Nobody said I was studying something that is inevitable or irreversible. Nobody said it was crazy to call Werner syndrome a disease or to work to find a breakthrough therapy. Nobody told me or the Werner patients that “that’s just the way it goes.”"
+
+A Kindle User:
+
+165
+
+"A few recent studies have suggested that the so-called selfish genes we all carry in our genome, actually called LINE-1 elements, replicate and cause cellular havoc as we get older, accelerating our physical demise. We’ll discuss them in more detail later, but for now, it’s the idea I want to focus on because it raises important questions: Does it matter whether LINE-1 comes from your parents directly or via a virus? Would you want to eradicate LINE-1 from humanity or let it grow in your kids and inflict horrible diseases on them?"
+
+A Kindle User:
+
+164
+
+"A GLORIOUS FIGHT Aging results in physical decline. It limits the quality of life. And it has a specific pathology. Aging does all this, and in doing so it fulfills every category of what we call a disease except one: it impacts more than half the population. According to The Merck Manual of Geriatrics, a malady that impacts less than half the population is a disease. But aging, of course, impacts everyone. The manual therefore calls aging an “inevitable, irreversible decline in organ function that occurs over time even in the absence of injury, illness, environmental risks, or poor lifestyle choices.”"
+
+A Kindle User:
+
+163
+
 "resources to help its citizens combat aging. In a world in which we seem to agree on very little, the feeling that “it’s just the way it goes” is almost universal."
 
 A Kindle User:
