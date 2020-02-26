@@ -8,6 +8,67 @@ This eye-opening and provocative work takes us to the frontlines of research tha
 
 ## 02 The demented Pianist
 
+"can do to alleviate suffering we should do. But we’re still building nine dams on nine tributaries. In coming together to tackle the “new science of aging,” as the attendees of the Royal Society meeting termed this fight in their 2010 meeting, increasing numbers of scientists are starting to acknowledge the possibility and potential inherent in heading upstream."
+
+A Kindle User:
+
+168
+
+"Information Theory of Aging"
+
+A Kindle User:
+
+166-167
+
+"Of course not. When we stay healthy and vibrant, as long as we feel young physically and mentally, our age doesn’t matter. That’s true whether you are 32, 52, or 92. Most middle-aged and older adults in the United States report feeling ten to twenty years younger than their age, because they still feel healthy. And feeling younger than your age predicts lower mortality and better cognitive abilities later in life.22 It’s a virtuous cycle, as long as you keep pedaling. But no matter how you feel at this moment in your life, even with a positive outlook and a healthy lifestyle, you have a disease. And it’s going to catch up to you, sooner rather than later, unless something is done."
+
+A Kindle User:
+
+166
+
+"condition that causes people to look and feel as though they are 80 when they are in their 40s. That’s Werner syndrome, the disease I was studying when I first arrived at MIT in the 1990s. Nobody said I was studying something that is inevitable or irreversible. Nobody said it was crazy to call Werner syndrome a disease or to work to find a breakthrough therapy. Nobody told me or the Werner patients that “that’s just the way it goes.”"
+
+A Kindle User:
+
+165
+
+"A few recent studies have suggested that the so-called selfish genes we all carry in our genome, actually called LINE-1 elements, replicate and cause cellular havoc as we get older, accelerating our physical demise. We’ll discuss them in more detail later, but for now, it’s the idea I want to focus on because it raises important questions: Does it matter whether LINE-1 comes from your parents directly or via a virus? Would you want to eradicate LINE-1 from humanity or let it grow in your kids and inflict horrible diseases on them?"
+
+A Kindle User:
+
+164
+
+"A GLORIOUS FIGHT Aging results in physical decline. It limits the quality of life. And it has a specific pathology. Aging does all this, and in doing so it fulfills every category of what we call a disease except one: it impacts more than half the population. According to The Merck Manual of Geriatrics, a malady that impacts less than half the population is a disease. But aging, of course, impacts everyone. The manual therefore calls aging an “inevitable, irreversible decline in organ function that occurs over time even in the absence of injury, illness, environmental risks, or poor lifestyle choices.”"
+
+A Kindle User:
+
+163
+
+"resources to help its citizens combat aging. In a world in which we seem to agree on very little, the feeling that “it’s just the way it goes” is almost universal."
+
+A Kindle User:
+
+162
+
+But consider this: though smoking increases the risk of getting cancer fivefold, being 50 years old increases your cancer risk a hundredfold. By the age of 70, it is a thousandfold.21"
+
+A Kindle User:
+
+161
+
+"The final years of my mother’s life serve as a good example. Like almost everyone else, I recognized that smoking would increase my mother’s chances of getting lung cancer. I also knew why: cigarette smoke contains a chemical called benzo(a)pyrene, which binds to guanine in DNA, induces double-strand breaks, and causes mutations. The repair process also causes epigenetic drift and metabolic changes that cancer cells thrive on, in a process we’ve called geroncogenesis.19 The combination of genetic and epigenetic changes induced by years of exposure to cigarette smoke increases the chances of developing lung cancer about fivefold."
+
+A Kindle User:
+
+160
+
+
+"One study found that 85-year-old men are diagnosed with an average of four different diseases, with women of that age suffering from five. Heart disease and cancer. Arthritis and Alzheimer’s. Kidney disease and diabetes. Most patients have several additional undiagnosed diseases, including hypertension, ischemic heart disease, atrial fibrillation, and dementia.18 Yes, these are different ailments with different pathologies, studied in different buildings at the National Institutes of Health and in different departments within universities."
+
+A Kindle User:
+
+159
+
 "To me, that in itself is an indictment of the US system; like other advanced countries, we should be making tremendous progress toward reducing the DALY and other measures of morbidity, yet, at best, it seems we’re treading water. We need a new approach."
 
 A Kindle User:
