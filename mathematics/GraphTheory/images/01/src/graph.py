@@ -1,10 +1,8 @@
 #!/usr/bin/env python
 graph = { "a" : ["c"],
-          "b" : ["c" "e"],
-          "c" : ["a", "b", "d", "e"],
-          "d" : ["c"],
-          "e" : ["c", "b"],
-          "f" : []
+          "b" : ["c" "d"],
+          "c" : ["a", "b", "d"],
+          "d" : ["c"]
           }
 def generate_edges(graph):
     edges = []

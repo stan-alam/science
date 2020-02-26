@@ -206,11 +206,9 @@
 ```python
 #/scr/graph.py  
 graph = { "a" : ["c"],
-          "b" : ["c" "e"],
-          "c" : ["a", "b", "d", "e"],
-          "d" : ["c"],
-          "e" : ["c", "b"],
-          "f" : []
+          "b" : ["c" "d"],
+          "c" : ["a", "b", "d"],
+          "d" : ["c"]
           }
 # letters as nodes
 def generate_edges(graph):
