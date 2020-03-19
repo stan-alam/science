@@ -2,6 +2,8 @@
 
 
 ```text
+**03.19.2020**
+https://astronomy.com/news/2020/03/how-big-are-neutron-stars
 
 https://www.symmetrymagazine.org/article/studying-the-stars-with-machine-learning
 
