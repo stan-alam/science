@@ -1,5 +1,8 @@
 ﻿## Notes on 'Emperor of all Maladies'
 
+**08.18.2020**
+https://phys.org/news/2020-08-revealed-highly-efficient-anticancer-drug.html
+
 https://www.wired.com/story/how-a-6000-year-old-dog-cancer-spread-around-the-world
 
 ```text
