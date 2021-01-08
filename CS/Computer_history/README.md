@@ -3,6 +3,9 @@
 **08.08.2019**
 https://insights.dice.com/2019/08/02/ibm-layoffs-ageism-age-discrimination/
 
+**12.29.2020**
+https://youtu.be/l4b1D1vWRnc
+
 A history of one of the most influential American companies of the last century.
 
 For decades, IBM shaped the way the world did business. IBM products were in every large organization, and IBM corporate culture established a management style that was imitated by companies around the globe. It was "Big Blue, " an icon. And yet over the years, IBM has gone through both failure and success, surviving flatlining revenue and forced reinvention. The company almost went out of business in the early 1990s, then came back strong with new business strategies and an emphasis on artificial intelligence. In this authoritative, monumental history, James Cortada tells the story of one of the most influential American companies of the last century.
