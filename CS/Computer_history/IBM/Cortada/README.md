@@ -1,4 +1,5 @@
 
+The IBM of the early Eighties was a place of inexhaustible pride. Like the Roman Empire at its zenith, IBM was rich with the fruit of past conquests and supremely confident of new victories. To admirers, inside and outside the empire, its actions and ideas seemed to fit together with an innate perfection, like some vast Swiss watch
 
 Review -
 
