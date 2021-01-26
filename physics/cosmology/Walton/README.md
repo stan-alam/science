@@ -1,4 +1,4 @@
-## Genesis 1 as Ancient Cosmology
+## 
 
 ```text
 The ancient Near Eastern mode of thought is not at all intuitive to us moderns,
