@@ -151,3 +151,92 @@ for (int i = 0; i < length * 2); i+= 2) {
 <a>
   <img src="https://github.com/stan-alam/science/blob/develop/CS/comp-sciJava/01/images/classicJavaCS01%20-%20page%2020.png" width="80%" height="80%">
 </a>
+
+<a>
+  <img src="https://github.com/stan-alam/science/blob/develop/CS/comp-sciJava/01/images/classicJavaCS01%20-%20page%2021A.png" width="80%" height="80%">
+</a>
+
+```java
+//20.A
+public static KeyPair encrypt(String originalString) {
+  byte[] originalBytes = original.getBytes();
+  byte[] dummyKey = randomKey(originalBytes.length);
+  byte[] encryptedKey = new byte[originalBytes.length];
+  for (int i = 0; i < originalBytes.length; i++) {
+    // XOR every byte
+    encryptedKey[i] = (byte) (originalBytes[i] ^ dummyKey[i]);
+  }
+  return new KeyPair(dummyKey, encryptedKey)
+}
+```
+<a>
+  <img src="https://github.com/stan-alam/science/blob/develop/CS/comp-sciJava/01/images/classicJavaCS01%20-%20page%2021B.png" width="80%" height="80%">
+</a>
+
+```java
+//20.B
+public static String decrypt(KeyPair kp) {
+  byte[] decrypted = new bytes[kp.key1.length];
+  for (int i = 0; i < kp.key1.length; i++) {
+    //XOR each byte
+    decrypted[i] = (byte) (kp.key1[i] ^ kp.key2[i]);
+  }
+  return new String(decrypted);
+}
+```
+// to do! compile and run this code!
+```java
+//20A - 20B main
+public static void main(String[] args) {
+  KeyPair kp = encrype("one time pad!");
+  String result = decrypt(kp);
+
+  System.err.println(result);
+}
+```
+
+<a>
+  <img src="https://github.com/stan-alam/science/blob/develop/CS/comp-sciJava/01/images/classicJavaCS01%20-%20page%2022.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/science/blob/develop/CS/comp-sciJava/01/images/classicJavaCS01%20-%20page%2023.png" width="80%" height="80%">
+</a>
+
+```java
+//21.B
+public class PiCalc {
+
+  public static double calculatePi(int nTerms){
+    final double numerator = 4;
+    double denominator = 1.0;
+    double operation = 1.0;
+    double pi = 0.0;
+    for (int i = 0; i < nTerms; i++){
+      pi += operation * (numerator / denominator);
+      denominator += 2.0;
+      operation *= -1.0;
+    }
+    return pi;
+  }
+  public static void main(String[] args){
+    System.err.println(calculatePi(10000000)) //10 million times!
+  }
+}
+```
+
+<a>
+  <img src="https://github.com/stan-alam/science/blob/develop/CS/comp-sciJava/01/images/classicJavaCS01%20-%20page%2024.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/science/blob/develop/CS/comp-sciJava/01/images/classicJavaCS01%20-%20page%2025.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/science/blob/develop/CS/comp-sciJava/01/images/classicJavaCS01%20-%20page%2026.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/science/blob/develop/CS/comp-sciJava/01/images/classicJavaCS01%20-%20page%2027.png" width="80%" height="80%">
+</a>
