@@ -237,6 +237,25 @@ public class PiCalc {
   <img src="https://github.com/stan-alam/science/blob/develop/CS/comp-sciJava/01/images/classicJavaCS01%20-%20page%2026.png" width="80%" height="80%">
 </a>
 
+```java
+//23.A
+import java.util.Stack;
+
+public class TowerHanoi {
+    private final int numberOfDiscs;
+    public final Stack<Integer> towerA = new Stack<>();
+    public final Stack<Integer> towerB = new Stack<>();
+    public final Stack<Integer> towerC = new Stack<>();
+
+    public TowerHanoi(int discs){
+      numberOfDiscs = discs;
+      for int (int i = 1; i <= discs; i++) {
+        towerA.push(i);
+      }
+    }
+}
+```
+
 <a>
   <img src="https://github.com/stan-alam/science/blob/develop/CS/comp-sciJava/01/images/classicJavaCS01%20-%20page%2027.png" width="80%" height="80%">
 </a>
