@@ -17,3 +17,11 @@ In this essential guide, Google Software Engineer JJ Geewax provides a unique an
 flexibility and ease-of-use in your APIs. Each pattern in the catalog is fully illustrated with its own example API, use-cases for solving common 
 API design challenges, and scenarios for tricky edge issues using a pattern’s more subtle features. With the best practices laid out in this book, 
 you can ensure your APIs are adaptive in the face of change and easy for your clients to incorporate into their projects.
+
+	* A full case-study of building an API and adding features
+
+	* The guiding principles that underpin most API patterns
+
+	* Fundamental patterns for resource layout and naming
+	
+	* Advanced patterns for special interactions and data transformation
