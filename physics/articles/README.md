@@ -1,4 +1,13 @@
 ## articles
+09.02.2021
+QUANTUM MECHANICS RESEARCH UPDATE
+Wave-particle duality quantified for the first time
+01 Sep 2021
+https://physicsworld.com/a/wave-particle-duality-quantified-for-the-first-time
+
+09.02.2021
+https://www.einsteinianphysics.com/
+
 08.22.2021
 Steven Weinberg's four tips for aspiring scientists
 JUL 27, 2021  5 COMMENTS
