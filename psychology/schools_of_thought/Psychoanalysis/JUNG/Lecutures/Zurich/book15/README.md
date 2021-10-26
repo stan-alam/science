@@ -1,0 +1,8 @@
+## Jung’s legendary American lectures on dream interpretation
+ETA_ZURICH_BOOK15
+
+In 1936 and 1937, C. G. Jung delivered two legendary seminars on dream interpretation, the first on Bailey Island, Maine, the second in New York City. Dream Symbols of the Individuation Process makes these lectures widely available for the first time, offering a compelling look at Jung as he presents his ideas candidly and in English before a rapt American audience.
+
+The dreams presented here are those of Nobel Prize–winning physicist Wolfgang Pauli, who turned to Jung for therapeutic help because of troubling personal events, emotional turmoil, and depression. Linking Pauli’s dreams to the healing wisdom found in many ages and cultures, Jung shows how the mandala—a universal archetype of wholeness—spontaneously emerges in the psyche of a modern man, and how this imagery reflects the healing process. He touches on a broad range of themes, including psychological types, mental illness, the individuation process, the principles of psychotherapeutic treatment, and the importance of the anima, shadow, and persona in masculine psychology. He also reflects on modern physics, the nature of reality, and the political currents of his time. Jung draws on examples from the Mithraic mysteries, Buddhism, Hinduism, Chinese philosophy, Kundalini yoga, and ancient Egyptian concepts of body and soul. He also discusses the symbolism of the Catholic Mass, the Trinity, and Gnostic ideas in the noncanonical Gospels.
+
+With an incisive introduction and annotations, Dream Symbols of the Individuation Process provides a rare window into Jung’s interpretation of dreams and the development of his psychology of religion.
