@@ -1,4 +1,20 @@
 ## articles
+09.05.2021
+
+New findings in astronomy are making some astronomers doubt our basic model of the universe.
+Alignments of celestial objects suggest that they may be embedded in large-scale structures.
+Galaxies too far apart to be influencing each other are moving through space together.
+http://unbounce.com/online-marketing/11-marketing-documentaries-that-will-make-you-a-smarter-marketer/
+
+09.02.2021
+QUANTUM MECHANICS RESEARCH UPDATE
+Wave-particle duality quantified for the first time
+01 Sep 2021
+https://physicsworld.com/a/wave-particle-duality-quantified-for-the-first-time
+
+09.02.2021
+https://www.einsteinianphysics.com/
+
 08.22.2021
 Steven Weinberg's four tips for aspiring scientists
 JUL 27, 2021  5 COMMENTS
