@@ -1,0 +1,1 @@
+## notes on Dockerize .NET framework
