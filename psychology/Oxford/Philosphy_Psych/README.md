@@ -1,0 +1,16 @@
+## Philosophy & Pyschoanalysis
+
+Psychoanalysis And Psychoanalytic Psychotherapy
+
+```text
+Psychoanalysis is often equated with Sigmund Freud, but this comparison ignores the wide range of clinical practices, observational methods, general theories, and cross-pollinations with other disciplines that characterise contemporary psychoanalytic work. Central psychoanalytic concepts to do
+with unconscious motivation, primitive forms of thought, defence mechanisms, and transference form a mainstay of today's richly textured contemporary clinical psychological practice.
+In this landmark collection on philosophy and psychoanalysis, leading researchers provide an evaluative overview of current thinking. Written at the interface between these two disciplines, the Oxford Handbook of Philosophy and Psychoanalysis contains original contributions that will shape the
+future of debate. With 34 chapters divided into eight sections covering history, clinical theory, phenomenology, science, aesthetics, religion, ethics, and political and social theory, this Oxford Handbook displays the enduring depth, breadth, and promise of integrating philosophical and psychoanalytic thought.
+Anyone interested in the philosophical implications of psychoanalysis, as well as philosophical challenges to and re-statements of psychoanalysis, will want to consult this book. It will be a vital resource for academic researchers, psychoanalysts and other mental health professionals, graduates,
+and trainees.
+With contributions from 35 leading experts in the field, The Oxford Handbook of Philosophy and Psychoanalysis provides the definitive guide to this interdisciplinary field. The book comprises eight sections, each providing an overview of current thinking at the interface between philosophy and psychoanalysis through original contributions that will shape the future of the debate in its area. The first section covers the philosophical pre-history of the psychoanalytic unconscious, including discussions of Spinoza, Kant, Hegel, Schopenhauer, and Nietzsche. The next three present evaluations of psychoanalysis. Thus, the second examines how psychoanalysis was received and developed in the twentieth century by Merleau-Ponty, Wittgenstein, the Frankfurt School, and Ricoeur. In the third, central clinical concepts, such as transference, symbolism, wish-fulfilment, making the unconscious conscious, and therapeutic action are presented and interrogated. The fourth discusses the scientific credentials of psychoanalysis, and whether it is better understood as a form of phenomenology. The final four sections turn to the contribution and significance of a psychoanalytic perspective for different aspects of human self-understanding. In that on aesthetics, philosophical theories of art, literature and film are illuminated. In the section on religion, Freud’s challenge to theism, philosophical and psychoanalytic responses to that, and Lacan’s reinterpretation of religion take centre-stage. Next, questions of love, mental health and evolutionary neuroscience are discussed in relation to ethics. The final section examines the radical challenge of psychoanalysis to political and social institutions, including issues of education, gender and war.
+Claudia Lindner Leporda  · 
+
+  · 
+```
