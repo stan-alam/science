@@ -5,7 +5,7 @@
 </a>
 
 <a>
-  <img src="https://github.com/stan-alam/science/blob/develop/physics/relativistic/special/underGrad/images/02/SR-undergrd01%20-%20page%202.png" width="80%" height="80%">
+  <img src="https://github.com/stan-alam/science/blob/develop/physics/relativistic/special/underGrad/images/01/SR-undergrd01%20-%20page%202.png" width="80%" height="80%">
 </a>
 
 <a>
