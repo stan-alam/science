@@ -1,6 +1,6 @@
 ## Special
 
--[x] Special relativity for beginners: A Textbook for Undergraduates Illustrated Edition
+- [x] Special relativity for beginners: A Textbook for Undergraduates Illustrated Edition
 
 Feynman Vol 1
 
