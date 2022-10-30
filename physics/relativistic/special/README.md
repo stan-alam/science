@@ -1,6 +1,6 @@
 ## Special
 
--[] Special relativity for beginners: A Textbook for Undergraduates Illustrated Edition
+- [x] Special relativity for beginners: A Textbook for Undergraduates Illustrated Edition
 
 Feynman Vol 1
 
@@ -19,7 +19,7 @@ Chapters
 
 
 Hartle - Gravity --Read before Carroll
-Part 3 - Tensors - 
+Part 3 - Tensors -
 
 Sean m. Carroll
 
