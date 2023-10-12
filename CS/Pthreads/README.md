@@ -54,3 +54,27 @@
 <a>
   <img src="https://github.com/stan-alam/science/blob/develop/CS/Pthreads/images/01/pThreads%20-%20page%2015.png" width="80%" height="80%">
 </a>
+
+<a>
+  <img src="https://github.com/stan-alam/science/blob/develop/CS/Pthreads/images/01/pThreads%20-%20page%2016.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/science/blob/develop/CS/Pthreads/images/01/pThreads%20-%20page%2017.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/science/blob/develop/CS/Pthreads/images/01/pThreads%20-%20page%2018.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/science/blob/develop/CS/Pthreads/images/01/pThreads%20-%20page%2019.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/science/blob/develop/CS/Pthreads/images/01/pThreads%20-%20page%2020.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/science/blob/develop/CS/Pthreads/images/01/pThreads%20-%20page%2021.png" width="80%" height="80%">
+</a>
