@@ -78,3 +78,15 @@
 <a>
   <img src="https://github.com/stan-alam/science/blob/develop/CS/Pthreads/images/01/pThreads%20-%20page%2021.png" width="80%" height="80%">
 </a>
+
+<a>
+  <img src="https://github.com/stan-alam/science/blob/develop/CS/Pthreads/images/01/pThreads%20-%20page%2022.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/science/blob/develop/CS/Pthreads/images/01/pThreads%20-%20page%2023.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/science/blob/develop/CS/Pthreads/images/01/pThreads%20-%20page%2024.png" width="80%" height="80%">
+</a>
