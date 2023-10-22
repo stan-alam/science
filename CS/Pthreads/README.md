@@ -118,3 +118,26 @@
 <a>
   <img src="https://github.com/stan-alam/science/blob/develop/CS/Pthreads/images/01/pThreads%20-%20page%2031.png" width="80%" height="80%">
 </a>
+
+```c
+#include <stdio.h>
+#include <pthread.h>
+
+void do_one_thing(int *);
+void do_another_thing(int *);
+void do_wrapup(int, int);
+
+int r1 = 0;
+int r2 = 0;
+
+extern int
+
+main(void)
+{
+  pthread_t thread01;
+  pthread_t thread02;
+
+  pthread_create(r&thread1, NULL, (void *) do_another_thing,
+  void * ) &r1);
+} /* not complete */
+```
