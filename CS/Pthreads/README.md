@@ -138,6 +138,13 @@ main(void)
   pthread_t thread02;
 
   pthread_create(r&thread1, NULL, (void *) do_another_thing,
-  void * ) &r1);
-} /* not complete */
+  (void *) &r1);
+  pthread_create(& thread02, NULL, (void *)do_another_thing, (void *) &r2);
+
+  pthread_join(thread01, NULL);
+  pthread_join(thread02, NULL);
+    do_wrapup(r1, r2,);
+
+  return 0
+} 
 ```
