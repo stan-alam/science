@@ -22,6 +22,21 @@
   <img src="https://github.com/stan-alam/science/blob/develop/mathematics/theCalculus/refrshr/images/02/calcRfrsh04%20-%20page%205.png" width="80%" height="80%">
 </a>
 
+<a>
+  <img src="https://github.com/stan-alam/science/blob/develop/mathematics/theCalculus/refrshr/images/02/calcRfrsh04%20-%20page%206.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/science/blob/develop/mathematics/theCalculus/refrshr/images/02/calcRfrsh04%20-%20page%207.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/science/blob/develop/mathematics/theCalculus/refrshr/images/02/calcRfrsh04%20-%20page%208.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/science/blob/develop/mathematics/theCalculus/refrshr/images/02/calcRfrsh04%20-%20page%209.png" width="80%" height="80%">
+</a>
 -------
 
 <a>
