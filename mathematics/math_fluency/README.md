@@ -60,6 +60,29 @@
   <img src="https://github.com/stan-alam/science/blob/develop/mathematics/trigonometry/attck/images/01/trig-attck01%20-%20page%2014.png" width="80%" height="80%">
 </a>
 
+## trig attack unit 02
+
+<a>
+  <img src="https://github.com/stan-alam/science/blob/develop/mathematics/trigonometry/attck/images/02/trig-attck02%20-%20page%201.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/science/blob/develop/mathematics/trigonometry/attck/images/02/trig-attck02%20-%20page%202.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/science/blob/develop/mathematics/trigonometry/attck/images/02/trig-attck02%20-%20page%203.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/science/blob/develop/mathematics/trigonometry/attck/images/02/trig-attck02%20-%20page%204.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/science/blob/develop/mathematics/trigonometry/attck/images/02/trig-attck02%20-%20page%205.png" width="80%" height="80%">
+</a>
+
+
 ## 06
 
 <a>
