@@ -313,3 +313,35 @@
 <a>
   <img src="https://github.com/stan-alam/science/blob/develop/mathematics/theCalculus/introCalc/images/01/IntroDiffCalc01%20-%20page%2077.png" width="80%" height="80%">
 </a>
+
+<a>
+  <img src="https://github.com/stan-alam/science/blob/develop/mathematics/theCalculus/introCalc/images/01/IntroDiffCalc01%20-%20page%2078.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/science/blob/develop/mathematics/theCalculus/introCalc/images/01/IntroDiffCalc01%20-%20page%2079.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/science/blob/develop/mathematics/theCalculus/introCalc/images/01/IntroDiffCalc01%20-%20page%2080.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/science/blob/develop/mathematics/theCalculus/introCalc/images/01/IntroDiffCalc01%20-%20page%2081.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/science/blob/develop/mathematics/theCalculus/introCalc/images/01/IntroDiffCalc01%20-%20page%2082.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/science/blob/develop/mathematics/theCalculus/introCalc/images/01/IntroDiffCalc01%20-%20page%2083.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/science/blob/develop/mathematics/theCalculus/introCalc/images/01/IntroDiffCalc01%20-%20page%2084.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/science/blob/develop/mathematics/theCalculus/introCalc/images/01/IntroDiffCalc01%20-%20page%2085.png" width="80%" height="80%">
+</a>
