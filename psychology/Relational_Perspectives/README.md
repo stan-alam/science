@@ -18,6 +18,47 @@ In times of stress, trauma and crisis—whether on a personal or global scale—
 In response, Sue Grand deconstructs the myth of the Heroic and argues for the "ordinary hero," a more realistic figure with the same limitations, concerns and fears as the rest of us, but who nonetheless stands up for the greater good in the face of danger, despair and villainy. From the foundation of relational psychoanalysis, Grand incorporates cultural and ethical considerations in her examination of what this ordinary hero might look like, a trip that takes us from the consulting room to right outside our front doors, from the heart of a "civilized" nation to the myriad war-torn regions dappling the globe, both past and present. Along the way we meet individuals whose encounters with adversity range from the mundane to the catastrophic, and learn how they struggle against the dubious concept of the Hero looming large in their lives. Recounting this journey in finely-tuned yet imminently accessible and enjoyable prose, Grand demonstrates that the best place to ultimately find the ordinary hero is within each other: The hero is us.
 
 
+| #  | title                                                                                                            |
+|----|------------------------------------------------------------------------------------------------------------------|
+| 1  | The Psychic Life of Fragments: On Splitting and the Experience of Time in Psychoanalysis                         |
+| 2  | Psychoanalytic Practices and Russia's War Against Ukraine: Reflections and Clinical Observations                 |
+| 3  | Affect, Consciousness and Self: The View from the Bottom of the Mind                                             |
+| 4  | Traumatic Narcissism: Relational Systems of Subjugation                                                          |
+| 5  | Clinical Storytelling, Art and the Problems of Being: The Analyst's Necessary Vertigo                            |
+| 6  | Oedipal Experiences in Same-Sex Families                                                                         |
+| 7  | Early Women Psychoanalysts: History, Biography, and Contemporary Relevance                                       |
+| 8  | Sexuality, Intimacy, Power: Classic Edition                                                                      |
+| 9  | Transgenerational Haunting in Psychoanalysis: Toxic Errands                                                      |
+| 10 | The Émigré Analysts and American Psychoanalysis: History and Contemporary Relevance                              |
+| 11 | Reading with Muriel Dimen/Writing with Muriel Dimen: Experiments in Theorizing a Field                           |
+| 12 | Risking Intimacy and Creative Transformation in Psychoanalysis                                                   |
+| 13 | Uprooted Minds: A Social Psychoanalysis for Precarious Times                                                     |
+| 14 | Relational Conversations on Meeting and Becoming: The Birth of a True Other                                      |
+| 15 | Inhabiting Implication in Racial Oppression and in Relational Psychoanalysis                                     |
+| 16 | More About Couples on the Couch: Approaching Psychoanalytic Couple Psychotherapy from an Expanded Perspective    |
+| 17 | Relationality: From Attachment to Intersubjectivity                                                              |
+| 18 | Addiction, Accommodation, and Vulnerability in Psychoanalysis: Circles without a Center                          |
+| 19 | Psychoanalytic Credos: Personal and Professional Journeys of Psychoanalysts                                      |
+| 20 | Building Bridges: The Negotiation of Paradox in Psychoanalysis                                                   |
+| 21 | Mutual Analysis: Ferenczi, Severn, and the Origins of Trauma Theory                                              |
+| 22 | Creative Engagement in Psychoanalytic Practice                                                                   |
+| 23 | Loss, Grief and Transformation: The Therapist’s Personal Experience in Psychotherapy and Psychoanalysis          |
+| 24 | Psychoanalysis in Social and Cultural Settings: Upheavals and Resilience                                         |
+| 25 | Traumatic Narcissism and Recovery: Leaving the Prison of Shame and Fear                                          |
+| 26 | Working with Survivor Siblings in Psychoanalysis: Ability and Disability in Clinical Process                     |
+| 27 | Vitalization in Psychoanalysis: Perspectives on Being and Becoming                                               |
+| 28 | When Minds Meet: The Work of Lewis Aron                                                                          |
+| 29 | Silence and Silencing in Psychoanalysis: Cultural, Clinical, and Research Perspectives                           |
+| 30 | Social Aspects Of Sexual Boundary Trouble In Psychoanalysis: Responses to the Work of Muriel Dimen               |
+| 31 | Sexual Boundary Trouble in Psychoanalysis: Clinical Perspectives on Muriel Dimen’s Concept of the “Primal Crime” |
+| 32 | On the Dialectics of Psychoanalytic Practice                                                                     |
+| 33 | Toward a Social Psychoanalysis: Culture, Character, and Normative Unconscious Processes                          |
+| 34 | Dialogues with Michael Eigen: Psyche Singing                                                                     |
+| 35 | Relational Psychoanalysis and Temporality: Time Out of Mind                                                      |
+| 36 | Creativity and the Erotic Dimensions of the Analytic Field                                                       |
+
+
+
 | # | title |
 |---|---|
 | 1 | Traumatic Narcissism and Recovery: Leaving the Prison of Shame and Fear |
