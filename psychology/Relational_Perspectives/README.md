@@ -1,22 +1,3 @@
-Relational Perspectives (129 books)
-
-
-**The Analyst in the Inner City: Race, Class, and Culture Through a Psychoanalytic Lens (Relational Perspectives Book Series)**
-(October 1, 1995)
-by Neil Altman (Author)
-4.6 4.6 out of 5 stars 11  4.4 on Goodreads 36 ratings
-This text challenges readers to rethink attitudes about psychoanalytic definition and boundary. The author argues that psychoanalytic understanding can be useful on every
-
-
-
-**The Hero in the Mirror: From Fear to Fortitude (Relational Perspectives Book Series)**
-(May 20, 2011)
-by Sue Grand (Author)
-5.0 5.0 out of 5 stars 1 
-In times of stress, trauma and crisis—whether on a personal or global scale—it can be all too easy for us to externalize a larger-than-life figure who can assuage our suffering, a Hero who comes to the fore even as we recede into the background. In taking on our collective burden, however, such an omnipotent Hero can actually undermine us, representing as it does the very same characteristics we fail to note in one another. By granting the Hero to power to set things right, we seem to deny it to ourselves, leaving us temporarily lightened but ultimately helpless.
-
-In response, Sue Grand deconstructs the myth of the Heroic and argues for the "ordinary hero," a more realistic figure with the same limitations, concerns and fears as the rest of us, but who nonetheless stands up for the greater good in the face of danger, despair and villainy. From the foundation of relational psychoanalysis, Grand incorporates cultural and ethical considerations in her examination of what this ordinary hero might look like, a trip that takes us from the consulting room to right outside our front doors, from the heart of a "civilized" nation to the myriad war-torn regions dappling the globe, both past and present. Along the way we meet individuals whose encounters with adversity range from the mundane to the catastrophic, and learn how they struggle against the dubious concept of the Hero looming large in their lives. Recounting this journey in finely-tuned yet imminently accessible and enjoyable prose, Grand demonstrates that the best place to ultimately find the ordinary hero is within each other: The hero is us.
-
 
 | #  | title                                                                                                            |
 |----|------------------------------------------------------------------------------------------------------------------|
