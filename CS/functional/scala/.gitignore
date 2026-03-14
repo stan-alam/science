@@ -1,0 +1,19 @@
+#ignore scala binaries
+target/
+out/
+#ignore eclipse files
+.classpath
+.project
+.settings/
+#ignore intellij files
+.idea/
+*.iml
+#ignore sbt files
+lib_managed/
+src_managed/
+#ignore log files
+logs/
+#ignore OS files
+.DS_Store
+#ignore visual studio code files
+.vscode/
